@@ -1,0 +1,1 @@
+mb_wfas_dedicated.exe -r Sample_Deathmatch.txt -m Ogniem i Mieczem

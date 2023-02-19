@@ -1,0 +1,1 @@
+mb_wfas_dedicated.exe -r Sample_Duel.txt -m Ogniem i Mieczem

@@ -1,0 +1,182 @@
+p_zendar|Zendar
+p_town_1|Koenigsberg
+p_town_2|Reval
+p_town_3|Kiev
+p_town_4|Vilna
+p_town_5|Sich
+p_town_6|Warsaw
+p_town_7|Lviv
+p_town_8|Moscow
+p_town_9|Pskov
+p_town_10|Azaq-kale
+p_town_11|Cherkassk
+p_town_12|Riga
+p_town_13|Smolensk
+p_town_14|Bakhchisaray
+p_town_15|Chernigov
+p_town_16|Krakov
+p_town_17|Akkerman
+p_town_18|Kyzykermen
+p_castle_1|Zbarazh Fortress
+p_castle_2|Kezlev Fortress
+p_castle_3|Polotsk
+p_castle_4|Vyborg
+p_castle_5|Dzvinsk Castle
+p_castle_6|Novgorod
+p_castle_7|Kilburun Fortress
+p_castle_8|Tver'
+p_castle_9|Poltava
+p_castle_10|Kovno Fortress
+p_castle_11|Myadzelsk Castle
+p_castle_12|Narva
+p_castle_13|Slutsk
+p_castle_14|Bratslav
+p_castle_15|Cherkassy
+p_castle_16|Korsun
+p_castle_17|Perekop
+p_castle_18|Rzhev Fortress
+p_castle_19|Kursk
+p_castle_20|Lodz Castle
+p_castle_21|Pereyaslav
+p_castle_22|Kafa
+p_castle_23|Dubensk Castle
+p_castle_24|Kamenets
+p_castle_25|Lublin
+p_castle_26|Minsk
+p_castle_27|Berestye Fortress
+p_castle_28|Bar Fortress
+p_castle_29|Bryansk Fortress
+p_castle_30|Izmail Fortress
+p_castle_31|Ryazan
+p_castle_32|Allenstein Castle
+p_castle_33|Ladyzhyn Fortress
+p_castle_34|Dorpat Fortress
+p_castle_35|Lida Castle
+p_castle_36|Dynaburg Fortress
+p_castle_37|Tula
+p_castle_38|Kalanchak Fortress
+p_castle_39|Izum Fortress
+p_castle_40|Kyzyl-yar Fortress
+p_village_1|Plotsk
+p_village_2|Wadowice
+p_village_3|Ovruch
+p_village_4|Dunayivtsi
+p_village_5|Elbing
+p_village_6|Widawa
+p_village_7|Amere
+p_village_8|Wesenberg
+p_village_9|Pohrebysche
+p_village_10|Redkino
+p_village_11|Ordash
+p_village_12|Boguslav
+p_village_13|Stryi
+p_village_14|Slantsy
+p_village_15|Baranovichi
+p_village_16|Tarusa
+p_village_17|Krivichi
+p_village_18|Ponyri
+p_village_19|Pokrovskoye
+p_village_20|Yefremovo
+p_village_21|Oboyan
+p_village_22|Lgov
+p_village_23|Magdalenovka
+p_village_24|Sinelnikovo
+p_village_25|Dzhankoy
+p_village_26|Snovsk
+p_village_27|Slavuta
+p_village_28|Sivash
+p_village_29|Siegevold
+p_village_30|Salis
+p_village_31|Pilve
+p_village_32|Staronowice
+p_village_33|Radzilow
+p_village_34|Molodechno
+p_village_35|Snechko
+p_village_36|Nidritsa
+p_village_37|Budjak
+p_village_38|Solechniki
+p_village_39|Ostrovets
+p_village_40|Kryliv
+p_village_41|Tumnek
+p_village_42|Pologi
+p_village_43|Ak-Mechet
+p_village_44|Esaq
+p_village_45|Inkerman
+p_village_46|Ilyintsy
+p_village_47|Zolotonosha
+p_village_48|Potoki
+p_village_49|Nugai
+p_village_50|Sofronovo
+p_village_51|Weissenstein
+p_village_52|Khorol
+p_village_53|Nesvizh
+p_village_54|Chenstokhova
+p_village_55|Luga
+p_village_56|Torma
+p_village_57|Babice
+p_village_58|Yartsy
+p_village_59|Loyew
+p_village_60|Dobrush
+p_village_61|Leal
+p_village_62|Staritsa
+p_village_63|Ostroleka
+p_village_64|Kobelyaki
+p_village_65|Dubechnya
+p_village_66|Zamoshye
+p_village_67|Rudnya
+p_village_68|Lubenets
+p_village_69|Tapiau
+p_village_70|Lyubotin
+p_village_71|Sambir
+p_village_72|Vydzy
+p_village_73|Kozelets
+p_village_74|Klin
+p_village_75|Ludinovo
+p_village_76|Czaple
+p_village_77|Panevezys
+p_village_78|Pavoloch
+p_village_79|Borispol
+p_village_80|Vendau
+p_village_81|Siauliai
+p_village_82|Trakai
+p_village_83|Lisyanka
+p_village_84|Maslov Brod
+p_village_85|Loknya
+p_village_86|Valuiki
+p_village_87|Plunge
+p_village_88|Kiliya
+p_village_89|Leschinovka
+p_village_90|Kolomak
+p_salt_mine|Salt Mine
+p_four_ways_inn|Four Ways Inn
+p_test_scene|test scene
+p_battlefields|battlefields
+p_dhorak_keep|Dhorak Keep
+p_training_ground|Mercenary camp
+p_training_ground_1|Mercenary camp
+p_training_ground_2|Mercenary camp
+p_training_ground_3|Mercenary camp
+p_training_ground_4|Mercenary camp
+p_training_ground_5|Mercenary camp
+p_temp_party_3|temp party 3
+p_bridge_1|1
+p_bridge_2|2
+p_bridge_3|3
+p_bridge_4|4
+p_bridge_5|5
+p_bridge_6|6
+p_bridge_7|7
+p_bridge_8|8
+p_bridge_9|9
+p_bridge_10|10
+p_bridge_11|11
+p_bridge_12|12
+p_bridge_13|13
+p_bridge_14|14
+p_bridge_15|15
+p_looter_spawn_point|looter sp
+p_steppe_bandit_spawn_point|steppe bandit sp
+p_forest_bandit_spawn_point|forest bandit sp
+p_mountain_bandit_spawn_point|mountain bandit sp
+p_sea_raider_spawn_point_1|sea raider sp
+p_sea_raider_spawn_point_2|sea raider sp

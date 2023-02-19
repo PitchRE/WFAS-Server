@@ -1,0 +1,1636 @@
+itm_no_item|INVALID ITEM
+itm_no_item_pl|INVALID ITEM
+itm_tutorial_spear|Spear
+itm_tutorial_spear_pl|Spear
+itm_tutorial_club|Club
+itm_tutorial_club_pl|Club
+itm_tutorial_battle_axe|Battle Axe
+itm_tutorial_battle_axe_pl|Battle Axe
+itm_tutorial_arrows|Arrows
+itm_tutorial_arrows_pl|Arrows
+itm_tutorial_bolts|Bullets
+itm_tutorial_bolts_pl|Bullets
+itm_tutorial_short_bow|Short Bow
+itm_tutorial_short_bow_pl|Short Bow
+itm_tutorial_crossbow|Crossbow
+itm_tutorial_crossbow_pl|Crossbow
+itm_tutorial_throwing_daggers|Throwing Daggers
+itm_tutorial_throwing_daggers_pl|Throwing Daggers
+itm_tutorial_saddle_horse|Saddle Horse
+itm_tutorial_saddle_horse_pl|Saddle Horse
+itm_tutorial_shield|Kite Shield
+itm_tutorial_shield_pl|Kite Shield
+itm_tutorial_staff_no_attack|Staff
+itm_tutorial_staff_no_attack_pl|Staff
+itm_tutorial_staff|Staff
+itm_tutorial_staff_pl|Staff
+itm_tutorial_sword|Sword
+itm_tutorial_sword_pl|Sword
+itm_tutorial_axe|Axe
+itm_tutorial_axe_pl|Axe
+itm_tutorial_dagger|Dagger
+itm_tutorial_dagger_pl|Dagger
+itm_horse_meat|Horse Meat
+itm_horse_meat_pl|Horse Meat
+itm_practice_sword|Practice Sword
+itm_practice_sword_pl|Practice Sword
+itm_heavy_practice_sword|Heavy Practice Sword
+itm_heavy_practice_sword_pl|Heavy Practice Sword
+itm_practice_dagger|Practice Dagger
+itm_practice_dagger_pl|Practice Dagger
+itm_practice_axe|Practice Axe
+itm_practice_axe_pl|Practice Axe
+itm_arena_axe|Axe
+itm_arena_axe_pl|Axe
+itm_arena_sword|Sword
+itm_arena_sword_pl|Sword
+itm_arena_sword_two_handed|Two Handed Sword
+itm_arena_sword_two_handed_pl|Two Handed Sword
+itm_arena_lance|Lance
+itm_arena_lance_pl|Lance
+itm_practice_staff|Practice Staff
+itm_practice_staff_pl|Practice Staff
+itm_practice_lance|Practice Lance
+itm_practice_lance_pl|Practice Lance
+itm_practice_shield|Practice Shield
+itm_practice_shield_pl|Practice Shield
+itm_practice_bow|Practice Bow
+itm_practice_bow_pl|Practice Bow
+itm_practice_crossbow|Practice Musket
+itm_practice_crossbow_pl|Practice Musket
+itm_practice_javelin|Practice Javelin
+itm_practice_javelin_pl|Practice Javelin
+itm_practice_javelin_melee|Practice Javelin melee
+itm_practice_javelin_melee_pl|Practice Javelin melee
+itm_practice_throwing_daggers|Throwing Daggers
+itm_practice_throwing_daggers_pl|Throwing Daggers
+itm_practice_throwing_daggers_100_amount|Throwing Daggers
+itm_practice_throwing_daggers_100_amount_pl|Throwing Daggers
+itm_practice_horse|Bloodstock Horse
+itm_practice_horse_pl|Bloodstock Horses
+itm_practice_arrows|Practice Arrows
+itm_practice_arrows_pl|Practice Arrows
+itm_practice_bolts|Practice Bullets
+itm_practice_bolts_pl|Practice Bullets
+itm_practice_arrows_10_amount|Practice Arrows
+itm_practice_arrows_10_amount_pl|Practice Arrows
+itm_practice_arrows_100_amount|Practice Arrows
+itm_practice_arrows_100_amount_pl|Practice Arrows
+itm_practice_bolts_9_amount|Practice Bullets
+itm_practice_bolts_9_amount_pl|Practice Bullets
+itm_practice_boots|Practice Boots
+itm_practice_boots_pl|Practice Boots
+itm_red_tourney_armor|Red Tourney Armor
+itm_red_tourney_armor_pl|Red Tourney Armor
+itm_blue_tourney_armor|Blue Tourney Armor
+itm_blue_tourney_armor_pl|Blue Tourney Armor
+itm_green_tourney_armor|Green Tourney Armor
+itm_green_tourney_armor_pl|Green Tourney Armor
+itm_gold_tourney_armor|Gold Tourney Armor
+itm_gold_tourney_armor_pl|Gold Tourney Armor
+itm_red_tourney_helmet|Red Tourney Helmet
+itm_red_tourney_helmet_pl|Red Tourney Helmet
+itm_blue_tourney_helmet|Blue Tourney Helmet
+itm_blue_tourney_helmet_pl|Blue Tourney Helmet
+itm_green_tourney_helmet|Green Tourney Helmet
+itm_green_tourney_helmet_pl|Green Tourney Helmet
+itm_gold_tourney_helmet|Gold Tourney Helmet
+itm_gold_tourney_helmet_pl|Gold Tourney Helmet
+itm_arena_shield_red|Shield
+itm_arena_shield_red_pl|Shield
+itm_arena_shield_blue|Shield
+itm_arena_shield_blue_pl|Shield
+itm_arena_shield_green|Shield
+itm_arena_shield_green_pl|Shield
+itm_arena_shield_yellow|Shield
+itm_arena_shield_yellow_pl|Shield
+itm_arena_armor_white|Arena Armor White
+itm_arena_armor_white_pl|Arena Armor White
+itm_arena_armor_red|Arena Armor Red
+itm_arena_armor_red_pl|Arena Armor Red
+itm_arena_armor_blue|Arena Armor Blue
+itm_arena_armor_blue_pl|Arena Armor Blue
+itm_arena_armor_green|Arena Armor Green
+itm_arena_armor_green_pl|Arena Armor Green
+itm_arena_armor_yellow|Arena Armor Yellow
+itm_arena_armor_yellow_pl|Arena Armor Yellow
+itm_arena_tunic_white|Arena Tunic White 
+itm_arena_tunic_white_pl|Arena Tunic White 
+itm_arena_tunic_red|Arena Tunic Red
+itm_arena_tunic_red_pl|Arena Tunic Red
+itm_arena_tunic_blue|Arena Tunic Blue
+itm_arena_tunic_blue_pl|Arena Tunic Blue
+itm_arena_tunic_green|Arena Tunic Green
+itm_arena_tunic_green_pl|Arena Tunic Green
+itm_arena_tunic_yellow|Arena Tunic Yellow
+itm_arena_tunic_yellow_pl|Arena Tunic Yellow
+itm_arena_helmet_red|Arena Helmet Red
+itm_arena_helmet_red_pl|Arena Helmet Red
+itm_arena_helmet_blue|Arena Helmet Blue
+itm_arena_helmet_blue_pl|Arena Helmet Blue
+itm_arena_helmet_green|Arena Helmet Green
+itm_arena_helmet_green_pl|Arena Helmet Green
+itm_arena_helmet_yellow|Arena Helmet Yellow
+itm_arena_helmet_yellow_pl|Arena Helmet Yellow
+itm_steppe_helmet_white|Steppe Helmet White
+itm_steppe_helmet_white_pl|Steppe Helmet White
+itm_steppe_helmet_red|Steppe Helmet Red
+itm_steppe_helmet_red_pl|Steppe Helmet Red
+itm_steppe_helmet_blue|Steppe Helmet Blue
+itm_steppe_helmet_blue_pl|Steppe Helmet Blue
+itm_steppe_helmet_green|Steppe Helmet Green
+itm_steppe_helmet_green_pl|Steppe Helmet Green
+itm_steppe_helmet_yellow|Steppe Helmet Yellow
+itm_steppe_helmet_yellow_pl|Steppe Helmet Yellow
+itm_tourney_helm_white|Tourney Helm White
+itm_tourney_helm_white_pl|Tourney Helm White
+itm_tourney_helm_red|Tourney Helm Red
+itm_tourney_helm_red_pl|Tourney Helm Red
+itm_tourney_helm_blue|Tourney Helm Blue
+itm_tourney_helm_blue_pl|Tourney Helm Blue
+itm_tourney_helm_green|Tourney Helm Green
+itm_tourney_helm_green_pl|Tourney Helm Green
+itm_tourney_helm_yellow|Tourney Helm Yellow
+itm_tourney_helm_yellow_pl|Tourney Helm Yellow
+itm_arena_turban_red|Arena Turban
+itm_arena_turban_red_pl|Arena Turban
+itm_arena_turban_blue|Arena Turban
+itm_arena_turban_blue_pl|Arena Turban
+itm_arena_turban_green|Arena Turban
+itm_arena_turban_green_pl|Arena Turban
+itm_arena_turban_yellow|Arena Turban
+itm_arena_turban_yellow_pl|Arena Turban
+itm_book_tactics|De Re Militari, Vegetius
+itm_book_tactics_pl|De Re Militari, Vegetius
+itm_book_persuasion|Rhetoric of Philipp Melanchthon
+itm_book_persuasion_pl|Rhetoric of Philipp Melanchthon
+itm_book_leadership|Maxims of State, Armand Jean du Plessis de Richelieu
+itm_book_leadership_pl|Maxims of State, Armand Jean du Plessis de Richelieu
+itm_book_intelligence|A Grammatical Outline of the Russian Language, Juraj Krizanic
+itm_book_intelligence_pl|A Grammatical Outline of the Russian Language, Juraj Krizanic
+itm_book_trade|A Discourse of Trade from England unto the East Indies, pamphlet by Thomas Mun 
+itm_book_trade_pl|A Discourse of Trade from England unto the East Indies, pamphlet by Thomas Mun 
+itm_book_weapon_mastery|On the Art of Fighting with Swords, Antonio Lovino
+itm_book_weapon_mastery_pl|On the Art of Fighting with Swords, Antonio Lovino
+itm_book_engineering|Geometry, Rene Descartes
+itm_book_engineering_pl|Geometry, Rene Descartes
+itm_book_wound_treatment_reference|Healing, Adam Olearius
+itm_book_wound_treatment_reference_pl|Healing, Adam Olearius
+itm_book_training_reference|Art of War, Niccolo Machiavelli
+itm_book_training_reference_pl|Art of War, Niccolo Machiavelli
+itm_book_surgery_reference|On Surgery and Instruments, Abu al-Kasim
+itm_book_surgery_reference_pl|On Surgery and Instruments, Abu al-Kasim
+itm_spice|Spice
+itm_spice_pl|Spice
+itm_salt|Salt
+itm_salt_pl|Salt
+itm_oil|Oil
+itm_oil_pl|Oil
+itm_pottery|Pottery
+itm_pottery_pl|Pottery
+itm_raw_flax|Flax Bundle
+itm_raw_flax_pl|Flax Bundle
+itm_linen|Linen
+itm_linen_pl|Linen
+itm_wool|Wool
+itm_wool_pl|Wool
+itm_wool_cloth|Wool Cloth
+itm_wool_cloth_pl|Wool Cloth
+itm_raw_silk|Raw Silk
+itm_raw_silk_pl|Raw Silk
+itm_raw_dyes|Dyes
+itm_raw_dyes_pl|Dyes
+itm_velvet|Velvet
+itm_velvet_pl|Velvet
+itm_iron|Iron
+itm_iron_pl|Iron
+itm_tools|Tools
+itm_tools_pl|Tools
+itm_raw_leather|Hides
+itm_raw_leather_pl|Hides
+itm_leatherwork|Leatherwork 
+itm_leatherwork_pl|Leatherwork 
+itm_raw_date_fruit|Date Fruit
+itm_raw_date_fruit_pl|Date Fruit
+itm_furs|Furs
+itm_furs_pl|Furs
+itm_oim_powder|Powder
+itm_oim_powder_pl|Powder
+itm_oim_alcohol|Vodka
+itm_oim_alcohol_pl|Vodka
+itm_oim_penka|Hemp
+itm_oim_penka_pl|Hemp
+itm_oim_tutun|Shag
+itm_oim_tutun_pl|Shag
+itm_wine|Wine
+itm_wine_pl|Wine
+itm_ale|Beer
+itm_ale_pl|Beer
+itm_smoked_fish|Smoked Fish
+itm_smoked_fish_pl|Smoked Fish
+itm_cheese|Cheese
+itm_cheese_pl|Cheese
+itm_honey|Honey
+itm_honey_pl|Honey
+itm_sausages|Sausages
+itm_sausages_pl|Sausages
+itm_cabbages|Cabbages
+itm_cabbages_pl|Cabbages
+itm_dried_meat|Dried Meat
+itm_dried_meat_pl|Dried Meat
+itm_apples|Apples
+itm_apples_pl|Apples
+itm_raw_grapes|Grapes
+itm_raw_grapes_pl|Grapes
+itm_raw_olives|Olives
+itm_raw_olives_pl|Olives
+itm_grain|Wheat
+itm_grain_pl|Wheat
+itm_flour|Flour
+itm_flour_pl|Flour
+itm_cattle_meat|Beef
+itm_cattle_meat_pl|Beef
+itm_bread|Bread
+itm_bread_pl|Bread
+itm_chicken|Chicken
+itm_chicken_pl|Chicken
+itm_pork|Pork
+itm_pork_pl|Pork
+itm_butter|Butter
+itm_butter_pl|Butter
+itm_siege_supply|Supplies
+itm_siege_supply_pl|Supplies
+itm_quest_wine|Wine
+itm_quest_wine_pl|Wine
+itm_quest_ale|Beer
+itm_quest_ale_pl|Beer
+itm_sumpter_horse|Sumpter Horse
+itm_sumpter_horse_pl|Sumpter Horse
+itm_saddle_horse|Saddle Horse
+itm_saddle_horse_pl|Saddle Horse
+itm_saddle_horse_b|Saddle Horse
+itm_saddle_horse_b_pl|Saddle Horses
+itm_saddle_horse_c|Saddle Horse
+itm_saddle_horse_c_pl|Saddle Horses
+itm_steppe_horse|Steppe Horse
+itm_steppe_horse_pl|Steppe Horse
+itm_steppe_horse_b|Steppe Horse
+itm_steppe_horse_b_pl|Steppe Horses
+itm_courser|Courser
+itm_courser_pl|Courser
+itm_hunter|Troop Horse
+itm_hunter_pl|Troop Horse
+itm_rich_horse|Thoroughbred Horse
+itm_rich_horse_pl|Thoroughbred Horses
+itm_rich_horse_b|Thoroughbred Horse
+itm_rich_horse_b_pl|Thoroughbred Horses
+itm_warhorse|Warhorse
+itm_warhorse_pl|Warhorse
+itm_charger|Charger
+itm_charger_pl|Charger
+itm_arrows|Arrows
+itm_arrows_pl|Arrows
+itm_khergit_arrows|Tatar Arrows
+itm_khergit_arrows_pl|Tatar Arrows
+itm_east_arrows|Eastern Arrows
+itm_east_arrows_pl|Eastern Arrows
+itm_barbed_arrows|Barbed Arrows
+itm_barbed_arrows_pl|Barbed Arrows
+itm_bodkin_arrows|Forged Arrows
+itm_bodkin_arrows_pl|Forged Arrows
+itm_bolts|Bullets
+itm_bolts_pl|Bullets
+itm_steel_bolts|Heavy Bullets
+itm_steel_bolts_pl|Heavy Bullets
+itm_cartridges|Bullets
+itm_cartridges_pl|Bullets
+itm_pilgrim_disguise|Pilgrim Disguise
+itm_pilgrim_disguise_pl|Pilgrim Disguise
+itm_pilgrim_hood|Pilgrim Hood
+itm_pilgrim_hood_pl|Pilgrim Hood
+itm_cavalry_gloves|Cavalry Gloves
+itm_cavalry_gloves_pl|Cavalry Gloves
+itm_infantry_gloves|Infantry Gloves
+itm_infantry_gloves_pl|Infantry Gloves
+itm_armor_gauntlets|Armor Gauntlets
+itm_armor_gauntlets_pl|Armor Gauntlets
+itm_leather_gloves|Leather Gloves
+itm_leather_gloves_pl|Leather Gloves
+itm_reytar_gauntlets|Reiter Gauntlets
+itm_reytar_gauntlets_pl|Reiter Gauntlets
+itm_black_reytar_gauntlets|Armor Gauntlets
+itm_black_reytar_gauntlets_pl|Armor Gauntlets
+itm_wrapping_boots|Wrapping Boots
+itm_wrapping_boots_pl|Wrapping Boots
+itm_woolen_hose|Woolen Hose
+itm_woolen_hose_pl|Woolen Hose
+itm_blue_hose|Blue Hose
+itm_blue_hose_pl|Blue Hose
+itm_hide_boots|Hide Boots
+itm_hide_boots_pl|Hide Boots
+itm_nomad_boots|Nomad Boots
+itm_nomad_boots_pl|Nomad Boots
+itm_leather_boots|Leather Boots
+itm_leather_boots_pl|Leather Boots
+itm_selo_boots|Village Boots
+itm_selo_boots_pl|Village Boots
+itm_old_cavalry_boots|Old Cavalry Boots
+itm_old_cavalry_boots_pl|Old Cavalry Boots
+itm_infantry_boots|Infantry Boots
+itm_infantry_boots_pl|Infantry Boots
+itm_cavalry_boots|Cavalry Boots
+itm_cavalry_boots_pl|Cavalry Boots
+itm_good_cavalry_boots|Good Cavalry Boots
+itm_good_cavalry_boots_pl|Good Cavalry Boots
+itm_kozak_boots|Cossack Boots
+itm_kozak_boots_pl|Cossack Boots
+itm_moskowit_postoli|Bast Shoes
+itm_moskowit_postoli_pl|Bast Shoes
+itm_moskowit_postoli_b|Bast Shoes
+itm_moskowit_postoli_b_pl|Bast Shoes
+itm_sapogi|Old Boots
+itm_sapogi_pl|Old Boots
+itm_good_sapogi|Good Boots
+itm_good_sapogi_pl|Good Boots
+itm_botinki|Boots with Stockings
+itm_botinki_pl|Boots with Stockings
+itm_old_cavalry_botforts|Old Jackboots
+itm_old_cavalry_botforts_pl|Old Jackboots
+itm_good_cavalry_botforts|Good Jackboots
+itm_good_cavalry_botforts_pl|Good Jackboots
+itm_cavalry_botforts|Jackboots
+itm_cavalry_botforts_pl|Jackboots
+itm_evropa_pehot_tufli|Shoes with Stockings
+itm_evropa_pehot_tufli_pl|Shoes with Stockings
+itm_janissary_tapki|Janissary Shoes
+itm_janissary_tapki_pl|Janissary Shoes
+itm_kalmyk_boots|Eastern Boots
+itm_kalmyk_boots_pl|Eastern Boots
+itm_courtly_outfit|Courtly Outfit
+itm_courtly_outfit_pl|Courtly Outfit
+itm_nobleman_outfit|Nobleman Outfit
+itm_nobleman_outfit_pl|Nobleman Outfit
+itm_leather_jacket|Leather Jacket
+itm_leather_jacket_pl|Leather Jacket
+itm_rawhide_coat|Rawhide Coat
+itm_rawhide_coat_pl|Rawhide Coat
+itm_woolen_dress|Woolen Dress
+itm_woolen_dress_pl|Woolen Dress
+itm_linen_tunic|Linen Tunic
+itm_linen_tunic_pl|Linen Tunic
+itm_red_shirt|Red Shirt
+itm_red_shirt_pl|Red Shirt
+itm_red_tunic|Red Tunic
+itm_red_tunic_pl|Red Tunic
+itm_robe|Robe
+itm_robe_pl|Robe
+itm_coarse_tunic|Coarse Tunic
+itm_coarse_tunic_pl|Coarse Tunic
+itm_leather_apron|Leather Apron
+itm_leather_apron_pl|Leather Apron
+itm_tabard|Tabard
+itm_tabard_pl|Tabard
+itm_red_gambeson|Red Gambeson
+itm_red_gambeson_pl|Red Gambeson
+itm_padded_cloth|Padded Cloth
+itm_padded_cloth_pl|Padded Cloth
+itm_leather_jerkin|Leather Jerkin
+itm_leather_jerkin_pl|Leather Jerkin
+itm_nomad_vest|Nomad Vest
+itm_nomad_vest_pl|Nomad Vest
+itm_tribal_warrior_outfit|Tribal Warrior Outfit
+itm_tribal_warrior_outfit_pl|Tribal Warrior Outfit
+itm_poland_svitka_a|Kuntush
+itm_poland_svitka_a_pl|Kuntushs
+itm_poland_svitka_b|Kuntush
+itm_poland_svitka_b_pl|Kuntushs
+itm_dobrotna_svitka_a|Good Kuntush
+itm_dobrotna_svitka_a_pl|Good Kuntushs
+itm_dobrotna_svitka_b|Good Kuntush
+itm_dobrotna_svitka_b_pl|Good Kuntushs
+itm_dobrotna_svitka_c|Good Kuntush
+itm_dobrotna_svitka_c_pl|Good Kuntushs
+itm_poland_pikiner_uniform|Hajduk Uniform
+itm_poland_pikiner_uniform_pl|Hajduk Uniforms
+itm_poland_musketer_uniform|Hajduk Uniform
+itm_poland_musketer_uniform_pl|Hajduk Uniforms
+itm_poland_dragoon_uniform|Polish Dragoon Uniform
+itm_poland_dragoon_uniform_pl|Polish Dragoon Uniforms
+itm_ukraine_svitka_a|Broadcloth Dress
+itm_ukraine_svitka_a_pl|Broadcloth Dresses
+itm_ukraine_svitka_b|Broadcloth Dress
+itm_ukraine_svitka_b_pl|Broadcloth Dresses
+itm_kozak_civil_jupan_a|Cossack Zupan
+itm_kozak_civil_jupan_a_pl|Cossack Zupans
+itm_kozak_civil_jupan_b|Cossack Zupan
+itm_kozak_civil_jupan_b_pl|Cossack Zupans
+itm_prostoy_jupan|Simple Zupan
+itm_prostoy_jupan_pl|Simple Zupans
+itm_prostoy_jupan_b|Simple Zupan
+itm_prostoy_jupan_b_pl|Simple Zupans
+itm_kozak_jupan|Cossack Zupan
+itm_kozak_jupan_pl|Cossack Zupans
+itm_kozak_jupan_b|Cossack Zupan
+itm_kozak_jupan_b_pl|Cossack Zupans
+itm_pure_streletzkiy_mundir|Marksman Caftan
+itm_pure_streletzkiy_mundir_pl|Marksman Caftans
+itm_pure_streletzkiy_mundir_spear|Marksman Caftan
+itm_pure_streletzkiy_mundir_spear_pl|Marksman Caftans
+itm_streletzkiy_mundir|Marksman Uniform
+itm_streletzkiy_mundir_pl|Marksman Uniforms
+itm_new_line_uniform|New Line Uniform
+itm_new_line_uniform_pl|New Line Uniforms
+itm_streletzkiy_mundir_spear|Marksman Uniform
+itm_streletzkiy_mundir_spear_pl|Marksman Uniforms
+itm_new_line_uniform_spear|New Line Uniform
+itm_new_line_uniform_spear_pl|New Line Uniforms
+itm_reestr_kozak_uniform|Rank Cossack Uniform
+itm_reestr_kozak_uniform_pl|Rank Cossack Uniforms
+itm_poland_uniforma_german_line_musketeer|German Musketeer Line Uniform
+itm_poland_uniforma_german_line_musketeer_pl|German Musketeer Line Uniforms
+itm_mosk_sermyaga|Broadcloth
+itm_mosk_sermyaga_pl|Broadclothes
+itm_mosk_armyak|Caftan
+itm_mosk_armyak_pl|Caftans
+itm_mosk_civil_a|Civil Dress
+itm_mosk_civil_a_pl|Civil Dresses
+itm_mosk_civil_b|Civil Dress
+itm_mosk_civil_b_pl|Civil Dresses
+itm_evropa_odejda_sela|Village Dress
+itm_evropa_odejda_sela_pl|Village Dresses
+itm_evropa_odejda_sela_b|Village Dress
+itm_evropa_odejda_sela_b_pl|Village Dresses
+itm_swed_civil_a|Civil Dress
+itm_swed_civil_a_pl|Civil Dresses
+itm_swed_civil_b|Civil Dress
+itm_swed_civil_b_pl|Civil Dresses
+itm_tatar_halat_pure_a|Robe
+itm_tatar_halat_pure_a_pl|Robes
+itm_tatar_halat_pure_b|Robe
+itm_tatar_halat_pure_b_pl|Robes
+itm_ttr_civil_a|Civil Dress
+itm_ttr_civil_a_pl|Civil Dresses
+itm_ttr_civil_b|Civil Dress
+itm_ttr_civil_b_pl|Civil Dresses
+itm_yanichar_forma_a|Janissary Uniform
+itm_yanichar_forma_a_pl|Janissary Uniforms
+itm_yanichar_forma_b|Janissary Uniform
+itm_yanichar_forma_b_pl|Janissary Uniforms
+itm_merc_musket_uniforma_a|Musketeer Camisole
+itm_merc_musket_uniforma_a_pl|Musketeer Camisoles
+itm_merc_musket_uniforma_b|Musketeer Camisole
+itm_merc_musket_uniforma_b_pl|Musketeer Camisoles
+itm_prostoy_jupan_c|Simple Zupan
+itm_prostoy_jupan_c_pl|Simple Zupans
+itm_ukraine_svitka_c|Svitka
+itm_ukraine_svitka_c_pl|Svitka
+itm_kozak_jupan_c|Cossack Zupan
+itm_kozak_jupan_c_pl|Cossack Zupans
+itm_tatar_halat_pure_c|Simple Robe
+itm_tatar_halat_pure_c_pl|Simple Robes
+itm_poland_svitka_c|Kuntush
+itm_poland_svitka_c_pl|Kuntush
+itm_poland_svitka_d|Kuntush
+itm_poland_svitka_d_pl|Kuntush
+itm_dobrotna_svitka_d|Rich Kuntush
+itm_dobrotna_svitka_d_pl|Rich Kuntush
+itm_dobrotna_svitka_e|Rich Kuntush
+itm_dobrotna_svitka_e_pl|Rich Kuntush
+itm_azap_forma|Turkish Attire
+itm_azap_forma_pl|Turkish Attires
+itm_scott_uniforma_musketeer|Scottish Musketeer Camisole
+itm_scott_uniforma_musketeer_pl|Scottish Musketeer Camisoles
+itm_evropa_musket_uniforma|Swedish Musketeer Uniform
+itm_evropa_musket_uniforma_pl|Swedish Musketeer Uniforms
+itm_evropa_dragoon_uniforma|Swedish Dragoon Uniform
+itm_evropa_dragoon_uniforma_pl|Swedish Dragoon Uniforms
+itm_evropa_gvardia_uniforma|Bodyguard Camisole
+itm_evropa_gvardia_uniforma_pl|Bodyguard Camisoles
+itm_tatar_steg_halat_a|Quilted Robe
+itm_tatar_steg_halat_a_pl|Quilted Robes
+itm_tatar_steg_halat_b|Quilted Robe
+itm_tatar_steg_halat_b_pl|Quilted Robes
+itm_tatar_halat_a|Robe
+itm_tatar_halat_a_pl|Robes
+itm_tatar_halat_b|Robe
+itm_tatar_halat_b_pl|Robes
+itm_rinda_shuba|Rynda Caftan
+itm_rinda_shuba_pl|Rynda Caftan
+itm_kozak_jupan_usileniy|Leather-clad Zupan
+itm_kozak_jupan_usileniy_pl|Leather-clad Zupans
+itm_serduk_jupan|Serduk Zupan
+itm_serduk_jupan_pl|Serduk Zupans
+itm_moskow_tulup_a|Tegilai
+itm_moskow_tulup_a_pl|Tegilai
+itm_moskow_tulup_b|Tegilai
+itm_moskow_tulup_b_pl|Tegilai
+itm_moskow_tulup_c|Tegilai
+itm_moskow_tulup_c_pl|Tegilai
+itm_tzar_odyag|Tsar Dress
+itm_tzar_odyag_pl|Tsar Dress
+itm_cavalry_koja_kurtka|Armor-clad Zupan
+itm_cavalry_koja_kurtka_pl|Armor-clad Zupans
+itm_koja_kurtka_s_podbivom|Armor-clad Kuntush
+itm_koja_kurtka_s_podbivom_pl|Armor-clad Kuntushs
+itm_kolchuga_panzernika|Chain Armor
+itm_kolchuga_panzernika_pl|Chain Armor
+itm_kozak_jupan_na_kolchuge|Chain Mail Zupan
+itm_kozak_jupan_na_kolchuge_pl|Chain Mail Zupans
+itm_kolchuga|Chain Armor
+itm_kolchuga_pl|Chain Armor
+itm_moskow_reytar_armor|Moscow Reiter Uniform
+itm_moskow_reytar_armor_pl|Moscow Reiter Uniforms
+itm_moskow_bahter_a|Behterets
+itm_moskow_bahter_a_pl|Behterets
+itm_tatar_kolcha|Chain Armor
+itm_tatar_kolcha_pl|Chain Armor
+itm_tatar_bahter_b|Simple Behterets
+itm_tatar_bahter_b_pl|Simple Behterets
+itm_tatar_seymen_armor|Chain Armor
+itm_tatar_seymen_armor_pl|Chain Armor
+itm_mosk_bahter_b|Behterets
+itm_mosk_bahter_b_pl|Behterets
+itm_moskow_kuyak|Kuyak
+itm_moskow_kuyak_pl|Kuyaks
+itm_kirasa|Breastplate
+itm_kirasa_pl|Breastplates
+itm_kirasa_b|Half-Cuirass
+itm_kirasa_b_pl|Half-Cuirasses
+itm_kirasa_c|Half-Cuirass
+itm_kirasa_c_pl|Half-Cuirasses
+itm_kirasa_rich|Handmade Half-Cuirass
+itm_kirasa_rich_pl|Handmade Half-Cuirasses
+itm_simple_reytar_armor|Cuirass On Leather Coat
+itm_simple_reytar_armor_pl|Cuirass On Leather Coat
+itm_moskow_boyar_uniform|Boyar Militia Uniform
+itm_moskow_boyar_uniform_pl|Boyar Militia Uniforms
+itm_evropa_pika_uniforma|Swedish Pikeman Uniform
+itm_evropa_pika_uniforma_pl|Swedish Pikeman Uniforms
+itm_merc_pika_uniforma_a|Pikeman Uniform
+itm_merc_pika_uniforma_a_pl|Pikeman Uniforms
+itm_merc_pika_uniforma_b|Pikeman Uniform
+itm_merc_pika_uniforma_b_pl|Pikeman Uniforms
+itm_tatar_bahter_a|Behterets
+itm_tatar_bahter_a_pl|Behterets
+itm_tatar_yushman|Yushman
+itm_tatar_yushman_pl|Yushmans
+itm_poland_gusar_panzer|Winged Hussar Coat of Mail
+itm_poland_gusar_panzer_pl|Winged Hussar Coats of Mail
+itm_poland_gusar_panzer_bez_kril|Hussar Coat of Mail
+itm_poland_gusar_panzer_bez_kril_pl|Hussar Coats of Mail
+itm_poland_uniforma_german_line|German Infantry Line Uniform
+itm_poland_uniforma_german_line_pl|German Infantry Line Uniforms
+itm_scott_uniforma|Scottish Uniform
+itm_scott_uniforma_pl|Scottish Uniforms
+itm_moskow_zertzalo|Rich Mirror Armor
+itm_moskow_zertzalo_pl|Rich Mirror Armor
+itm_poland_gusar_yaguar|Hussar Mail With Skin
+itm_poland_gusar_yaguar_pl|Hussar Mail With Skin
+itm_kalmyk_puzo|Eastern Brigandine
+itm_kalmyk_puzo_pl|Eastern Brigandines
+itm_reytar_armor|Reiter Half-Armor
+itm_reytar_armor_pl|Reiter Half-Armor
+itm_dospeh|Half-Armor
+itm_dospeh_pl|Half-Armor
+itm_black_dospeh|Black Armor
+itm_black_dospeh_pl|Black Armor
+itm_rich_baba_mosk_1|Female Dress
+itm_rich_baba_mosk_1_pl|Female Dress
+itm_rich_baba_mosk_2|Female Dress
+itm_rich_baba_mosk_2_pl|Female Dress
+itm_rich_baba_mosk_3|Female Dress
+itm_rich_baba_mosk_3_pl|Female Dress
+itm_pure_baba_mosk_1|Female Dress
+itm_pure_baba_mosk_1_pl|Female Dress
+itm_pure_baba_mosk_2|Female Dress
+itm_pure_baba_mosk_2_pl|Female Dress
+itm_rich_baba_ttr_1|Female Dress
+itm_rich_baba_ttr_1_pl|Female Dress
+itm_rich_baba_ttr_2|Female Dress
+itm_rich_baba_ttr_2_pl|Female Dress
+itm_pure_baba_ttr_1|Female Dress
+itm_pure_baba_ttr_1_pl|Female Dress
+itm_pure_baba_ttr_2|Female Dress
+itm_pure_baba_ttr_2_pl|Female Dress
+itm_rich_baba_pol_1|Female Dress
+itm_rich_baba_pol_1_pl|Female Dress
+itm_rich_baba_pol_2|Female Dress
+itm_rich_baba_pol_2_pl|Female Dress
+itm_rich_baba_pol_3|Female Dress
+itm_rich_baba_pol_3_pl|Female Dress
+itm_rich_baba_pol_4|Female Dress
+itm_rich_baba_pol_4_pl|Female Dress
+itm_pure_baba_pol_1|Female Dress
+itm_pure_baba_pol_1_pl|Female Dress
+itm_pure_baba_pol_2|Female Dress
+itm_pure_baba_pol_2_pl|Female Dress
+itm_pure_baba_pol_3|Female Dress
+itm_pure_baba_pol_3_pl|Female Dress
+itm_rich_baba_swd_1|Female Dress
+itm_rich_baba_swd_1_pl|Female Dress
+itm_rich_baba_swd_2|Female Dress
+itm_rich_baba_swd_2_pl|Female Dress
+itm_rich_baba_swd_3|Female Dress
+itm_rich_baba_swd_3_pl|Female Dress
+itm_rich_baba_swd_4|Female Dress
+itm_rich_baba_swd_4_pl|Female Dress
+itm_pure_baba_swd_1|Female Dress
+itm_pure_baba_swd_1_pl|Female Dress
+itm_pure_baba_swd_2|Female Dress
+itm_pure_baba_swd_2_pl|Female Dress
+itm_heraldic_mail_with_surcoat|Heraldic Mail with Surcoat
+itm_heraldic_mail_with_surcoat_pl|Heraldic Mail with Surcoat
+itm_heraldic_mail_with_tunic|Heraldic Mail
+itm_heraldic_mail_with_tunic_pl|Heraldic Mail
+itm_heraldic_mail_with_tunic_b|Heraldic Mail
+itm_heraldic_mail_with_tunic_b_pl|Heraldic Mail
+itm_heraldic_mail_with_tabard|Heraldic Mail with Tabard
+itm_heraldic_mail_with_tabard_pl|Heraldic Mail with Tabard
+itm_woolen_hood|Woolen Hood
+itm_woolen_hood_pl|Woolen Hood
+itm_fur_hat|Fur Hat
+itm_fur_hat_pl|Fur Hat
+itm_segmented_helmet|Segmented Helmet
+itm_segmented_helmet_pl|Segmented Helmet
+itm_evropa_musket_shlapa|Hat
+itm_evropa_musket_shlapa_pl|Hats
+itm_evropa_musket_shlapa_b|Hat
+itm_evropa_musket_shlapa_b_pl|Hats
+itm_evropa_kava_shlapa|Hat
+itm_evropa_kava_shlapa_pl|Hats
+itm_evropa_kava_shlapa_b|Hat
+itm_evropa_kava_shlapa_b_pl|Hats
+itm_evropa_kava_shlapa_c|Hat
+itm_evropa_kava_shlapa_c_pl|Hats
+itm_evropa_shlapa|Hat
+itm_evropa_shlapa_pl|Hats
+itm_evropa_shlapa_b|Hat
+itm_evropa_shlapa_b_pl|Hats
+itm_poland_army_hat_simple|Polish uniform hat
+itm_poland_army_hat_simple_pl|Polish uniform hats
+itm_beret_a|Beret
+itm_beret_a_pl|Berets
+itm_beret_b|Beret
+itm_beret_b_pl|Berets
+itm_beret_c|Beret
+itm_beret_c_pl|Berets
+itm_evropa_guard_shlapa|Hat
+itm_evropa_guard_shlapa_pl|Hats
+itm_parik|Wig
+itm_parik_pl|Wigs
+itm_evropa_shapka|Hat
+itm_evropa_shapka_pl|Hats
+itm_reestr_shapka|Rank Cossack Cap
+itm_reestr_shapka_pl|Rank Cossack Caps
+itm_poland_shapka|Cap
+itm_poland_shapka_pl|Caps
+itm_poland_army_hat_a|Polish uniform hat
+itm_poland_army_hat_a_pl|Polish uniform hats
+itm_poland_army_hat_b|Polish uniform hat
+itm_poland_army_hat_b_pl|Polish uniform hats
+itm_poland_mehova_shapka|Fur Cap
+itm_poland_mehova_shapka_pl|Fur Caps
+itm_poland_mehova_shapka_s_perom|Fur Cap
+itm_poland_mehova_shapka_s_perom_pl|Fur Caps
+itm_poland_good_shapka|Fur Cap
+itm_poland_good_shapka_pl|Fur Caps
+itm_ukrine_prosta_shapka|Village Cap
+itm_ukrine_prosta_shapka_pl|Village Caps
+itm_kozak_prosta_shapka|Simple Cossack Cap
+itm_kozak_prosta_shapka_pl|Simple Cossack Caps
+itm_kozak_shapka|Cossack Cap
+itm_kozak_shapka_pl|Cossack Caps
+itm_kozak_shapka_b|Cossack Cap
+itm_kozak_shapka_b_pl|Cossack Caps
+itm_kozak_shapka_c|Cossack Cap
+itm_kozak_shapka_c_pl|Cossack Caps
+itm_kozak_shapka_d|Cossack Cap
+itm_kozak_shapka_d_pl|Cossack Caps
+itm_serduk_shapka|Serduk Cap
+itm_serduk_shapka_pl|Serduk Caps
+itm_moskowit_shapka|Cap
+itm_moskowit_shapka_pl|Caps
+itm_streletz_shapka|Marksman Cap
+itm_streletz_shapka_pl|Marksman Caps
+itm_streletz_shapka_b|Marksman Cap
+itm_streletz_shapka_b_pl|Marksman Caps
+itm_streletz_shapka_c|Marksman Cap
+itm_streletz_shapka_c_pl|Marksman Caps
+itm_janissar_hat_a|Janissary hat
+itm_janissar_hat_a_pl|Janissary hats
+itm_janissar_hat_b|Janissary hat
+itm_janissar_hat_b_pl|Janissary hats
+itm_tatar_man_hat|Hat
+itm_tatar_man_hat_pl|Hats
+itm_turban|Turban
+itm_turban_pl|Turbans
+itm_tatar_kolpak|Tatar Cap
+itm_tatar_kolpak_pl|Tatar Caps
+itm_tatar_bayrak_hat|Hat
+itm_tatar_bayrak_hat_pl|Hats
+itm_tatar_nogay_hat|Hat
+itm_tatar_nogay_hat_pl|Hats
+itm_tatar_oglan_hat|Hat
+itm_tatar_oglan_hat_pl|Hats
+itm_tatar_kochevnik_hat_a|Nomad hat
+itm_tatar_kochevnik_hat_a_pl|Nomad hats
+itm_tatar_kochevnik_hat_b|Nomad hat
+itm_tatar_kochevnik_hat_b_pl|Nomad hats
+itm_rinda_hat|Hat
+itm_rinda_hat_pl|Hat
+itm_shapka_boyara|Noble Hat
+itm_shapka_boyara_pl|Noble Hats
+itm_shapka_bumajna_a|Paper Cap
+itm_shapka_bumajna_a_pl|Paper Caps
+itm_shapka_bumajna_b|Paper Cap
+itm_shapka_bumajna_b_pl|Paper Caps
+itm_misurka_s_barmizoy|Misiurka
+itm_misurka_s_barmizoy_pl|Misiurka
+itm_misurka_s_barmizoy_b|Misiurka
+itm_misurka_s_barmizoy_b_pl|Misiurka
+itm_misurka_s_barmizoy_c|Misiurka
+itm_misurka_s_barmizoy_c_pl|Misiurka
+itm_misurka_s_barmizoy_pure|Simple Misiurka
+itm_misurka_s_barmizoy_pure_pl|Simple Misiurka
+itm_misurka_s_barmizoy_rich|Rich Misiurka
+itm_misurka_s_barmizoy_rich_pl|Rich Misiurka
+itm_kozacka_shapka_s_misurkoy|Misiurka Cap
+itm_kozacka_shapka_s_misurkoy_pl|Misiurka Caps
+itm_tatar_misurka|Misiurka
+itm_tatar_misurka_pl|Misiurka
+itm_tatar_misurka_rich|Rich Misiurka
+itm_tatar_misurka_rich_pl|Rich Misiurka
+itm_tatar_helmet_a|Tatar Helmet
+itm_tatar_helmet_a_pl|Tatar Helmets
+itm_tatar_helmet_b|Tatar Helmet
+itm_tatar_helmet_b_pl|Tatar Helmets
+itm_tatar_han_helmet|Tatar Helmet
+itm_tatar_han_helmet_pl|Tatar Helmets
+itm_shishak|Iron Cap
+itm_shishak_pl|Iron Caps
+itm_new_line_helmet|New Line Helmet
+itm_new_line_helmet_pl|New Line Helmets
+itm_morion|Simple Morion
+itm_morion_pl|Simple Morions
+itm_morion_good|Morion
+itm_morion_good_pl|Morions
+itm_morion_perfect|Perfect Morion
+itm_morion_perfect_pl|Perfect Morions
+itm_moskow_reytar_helmet|Moscow Reiter Helmet
+itm_moskow_reytar_helmet_pl|Moscow Reiter Helmets
+itm_kabasset|Cabasset
+itm_kabasset_pl|Cabasset
+itm_poland_gusar_helmet|Winged Hussar Helmet
+itm_poland_gusar_helmet_pl|Winged Hussar Helmets
+itm_shelom|Shelom
+itm_shelom_pl|Shelom
+itm_mosk_shishak|Cone
+itm_mosk_shishak_pl|Cones
+itm_kalmyk_helmet|Eastern Helmet
+itm_kalmyk_helmet_pl|Eastern Helmets
+itm_boyar_helmet|Boyar Militia Helmet
+itm_boyar_helmet_pl|Boyar Militia Helmets
+itm_reytar_helmet|Reiter Helmet
+itm_reytar_helmet_pl|Reiter Helmets
+itm_black_reytar_helmet|Reiter Helmet
+itm_black_reytar_helmet_pl|Reiter Helmets
+itm_poland_gusar_helmet_greben|Hussar Helmet With Crest
+itm_poland_gusar_helmet_greben_pl|Hussar Helmets With Crest
+itm_armet|Armet
+itm_armet_pl|Armet
+itm_shapka_monomaha|Cap of Monomakh
+itm_shapka_monomaha_pl|Caps of Monomakh
+itm_mosk_platok_1|Headscarf
+itm_mosk_platok_1_pl|Headscarves
+itm_mosk_platok_2|Headscarf
+itm_mosk_platok_2_pl|Headscarves
+itm_pol_bab_hat_1|Female Hat
+itm_pol_bab_hat_1_pl|Female Hats
+itm_pol_bab_hat_2|Female Hat
+itm_pol_bab_hat_2_pl|Female Hats
+itm_tatar_bab_hat1|Female Hat
+itm_tatar_bab_hat1_pl|Female Hats
+itm_tatar_bab_hat2|Female Hat
+itm_tatar_bab_hat2_pl|Female Hats
+itm_tatar_bab_hat_rich|Female Hat
+itm_tatar_bab_hat_rich_pl|Female Hats
+itm_wooden_stick|Wooden Stick
+itm_wooden_stick_pl|Wooden Stick
+itm_club|Club
+itm_club_pl|Club
+itm_knife|Knife
+itm_knife_pl|Knife
+itm_dagger|Dagger
+itm_dagger_pl|Dagger
+itm_axe|Axe
+itm_axe_pl|Axe
+itm_sword_two_handed_b|Two Handed Sword
+itm_sword_two_handed_b_pl|Two Handed Sword
+itm_sword_two_handed_a|Great Sword
+itm_sword_two_handed_a_pl|Great Sword
+itm_bastard_sword_a|Bastard Sword
+itm_bastard_sword_a_pl|Bastard Sword
+itm_bastard_sword_b|Heavy Bastard Sword
+itm_bastard_sword_b_pl|Heavy Bastard Sword
+itm_great_axe|Great Axe
+itm_great_axe_pl|Great Axe
+itm_shortened_military_scythe|Shortened Military Scythe
+itm_shortened_military_scythe_pl|Shortened Military Scythe
+itm_sword_medieval_a|Sword
+itm_sword_medieval_a_pl|Sword
+itm_sword_medieval_b|Sword
+itm_sword_medieval_b_pl|Sword
+itm_sword_medieval_c|Arming Sword
+itm_sword_medieval_c_pl|Arming Sword
+itm_sword_khergit_1|Nomad Sabre
+itm_sword_khergit_1_pl|Nomad Sabre
+itm_sword_khergit_2|Sabre
+itm_sword_khergit_2_pl|Sabre
+itm_sword_khergit_3|Sabre
+itm_sword_khergit_3_pl|Sabre
+itm_sword_khergit_4|Heavy Sabre
+itm_sword_khergit_4_pl|Heavy Sabre
+itm_kosa|Scythe
+itm_kosa_pl|Scythes
+itm_vily|Pitchfork
+itm_vily_pl|Pitchforks
+itm_rusty_shpaga|Old Thrusting Sword
+itm_rusty_shpaga_pl|Old Thrusting Swords
+itm_prosta_shpaga|Thrusting Sword
+itm_prosta_shpaga_pl|Thrusting Swords
+itm_prosta_shpaga_b|Thrusting Sword
+itm_prosta_shpaga_b_pl|Thrusting Swords
+itm_prosta_shpaga_c|Thrusting Sword
+itm_prosta_shpaga_c_pl|Thrusting Swords
+itm_good_shpaga|Good Sword
+itm_good_shpaga_pl|Good Swords
+itm_good_shpaga_b|Good Sword
+itm_good_shpaga_b_pl|Good Swords
+itm_good_shpaga_c|Good Sword
+itm_good_shpaga_c_pl|Good Swords
+itm_good_shpaga_d|Good Sword
+itm_good_shpaga_d_pl|Good Swords
+itm_sablya_a|Saber
+itm_sablya_a_pl|Sabers
+itm_sablya_b|Saber
+itm_sablya_b_pl|Sabers
+itm_sablya_c|Saber
+itm_sablya_c_pl|Sabers
+itm_sablya_d|Saber
+itm_sablya_d_pl|Sabers
+itm_sablya_turk_a|Saber
+itm_sablya_turk_a_pl|Sabers
+itm_sablya_turk_b|Saber
+itm_sablya_turk_b_pl|Sabers
+itm_sablya_turk_c|Saber
+itm_sablya_turk_c_pl|Sabers
+itm_sablya_tatar_a|Tatar Saber
+itm_sablya_tatar_a_pl|Tatar Sabers
+itm_sablya_pure_a|Simple Saber
+itm_sablya_pure_a_pl|Simple Sabers
+itm_sablya_pure_b|Simple Saber
+itm_sablya_pure_b_pl|Simple Sabers
+itm_sablya_pure_c|Simple Saber
+itm_sablya_pure_c_pl|Simple Sabers
+itm_sablya_pure_d|Simple Saber
+itm_sablya_pure_d_pl|Simple Sabers
+itm_sablya_turk_pure_a|Simple Saber
+itm_sablya_turk_pure_a_pl|Simple Sabers
+itm_sablya_turk_pure_b|Simple Saber
+itm_sablya_turk_pure_b_pl|Simple Sabers
+itm_sablya_turk_pure_c|Simple Saber
+itm_sablya_turk_pure_c_pl|Simple Sabers
+itm_sablya_tatar_pure_a|Simple Tatar Saber
+itm_sablya_tatar_pure_a_pl|Simple Tatar Sabers
+itm_rusty_palash|Old Broadsword
+itm_rusty_palash_pl|Old Broadswords
+itm_palash|Broadsword
+itm_palash_pl|Broadswords
+itm_good_palash|Good Broadsword
+itm_good_palash_pl|Good Broadswords
+itm_good_palash_b|Good Broadsword
+itm_good_palash_b_pl|Good Broadswords
+itm_pehot_palash_old|Old Short Broadsword
+itm_pehot_palash_old_pl|Old Short Broadswords
+itm_pehot_palash|Short Broadsword
+itm_pehot_palash_pl|Short Broadswords
+itm_good_pehot_palash|Good Short Broadsword
+itm_good_pehot_palash_pl|Good Short Broadswords
+itm_good_pehot_palash_b|Good Short Broadsword
+itm_good_pehot_palash_b_pl|Good Short Broadswords
+itm_yatagan_a|Simple Yataghan
+itm_yatagan_a_pl|Simple Yataghans
+itm_yatagan_good|Yataghan
+itm_yatagan_good_pl|Yataghans
+itm_yatagan_rich|Good Yataghan
+itm_yatagan_rich_pl|Good Yataghans
+itm_kozak_shablya|Simple Cossack Saber
+itm_kozak_shablya_pl|Simple Cossack Sabers
+itm_kozak_good_shablya|Cossack Saber
+itm_kozak_good_shablya_pl|Cossack Sabers
+itm_old_pike|Old Pike
+itm_old_pike_pl|Old Pikes
+itm_prosta_pike|Pike
+itm_prosta_pike_pl|Pikes
+itm_pika|Simple Pike
+itm_pika_pl|Simple Pikes
+itm_good_pike|Pike
+itm_good_pike_pl|Pikes
+itm_kopyo|Simple Lance
+itm_kopyo_pl|Simple Lances
+itm_good_kopyo|Lance
+itm_good_kopyo_pl|Lances
+itm_dubinka|Bludgeon
+itm_dubinka_pl|Bludgeons
+itm_plotnik_toporik|Carpenter Axe
+itm_plotnik_toporik_pl|Carpenter Axes
+itm_plotnik_topor|Lumberman Axe
+itm_plotnik_topor_pl|Lumberman Axes
+itm_pernach|Mace
+itm_pernach_pl|Maces
+itm_palitza|Club
+itm_palitza_pl|Clubs
+itm_klevetz|Crowbill
+itm_klevetz_pl|Crowbills
+itm_klevetz_good|Good Crowbill
+itm_klevetz_good_pl|Good Crowbills
+itm_chekan|Chekan
+itm_chekan_pl|Chekans
+itm_chekan_good|Good Chekan
+itm_chekan_good_pl|Good Chekans
+itm_rusty_toporik|Old Hatchet
+itm_rusty_toporik_pl|Old Hatchets
+itm_prostoy_toporik|Simple Hatchet
+itm_prostoy_toporik_pl|Simple Hatchets
+itm_toporik_good|Hatchet
+itm_toporik_good_pl|Hatchets
+itm_toporik_rich|Good Hatchet
+itm_toporik_rich_pl|Good Hatchets
+itm_cavalry_pika_a|Cavalry Lance
+itm_cavalry_pika_a_pl|Cavalry Lances
+itm_cavalry_pika_b|Cavalry Lance
+itm_cavalry_pika_b_pl|Cavalry Lances
+itm_gusar_lanza|Hussar Lance
+itm_gusar_lanza_pl|Hussar Lances
+itm_gusar_lanza_b|Hussar Lance
+itm_gusar_lanza_b_pl|Hussar Lances
+itm_kozacka_pika|Cavalry Lance
+itm_kozacka_pika_pl|Cavalry Lances
+itm_twohand_sword|Two-handled Sword
+itm_twohand_sword_pl|Two-handled Swords
+itm_twohand_sword_b|Two-handled Sword
+itm_twohand_sword_b_pl|Two-handled Swords
+itm_alebarda|Halberd
+itm_alebarda_pl|Halberds
+itm_berdish|Pole-axe
+itm_berdish_pl|Pole-axes
+itm_berdish_b|Pole-axe
+itm_berdish_b_pl|Pole-axes
+itm_sovnya|Sovnya
+itm_sovnya_pl|Sovnyas
+itm_black_hetman|Black Mace
+itm_black_hetman_pl|Black Mace
+itm_scott_palash|Scottish Broadsword
+itm_scott_palash_pl|Scottish Broadswords
+itm_scott_kleymor_a|Claymore
+itm_scott_kleymor_a_pl|Claymores
+itm_scott_kleymor_b|Claymore
+itm_scott_kleymor_b_pl|Claymores
+itm_konchar|Koncerz
+itm_konchar_pl|Koncerz
+itm_shestoper|Flanged Mace
+itm_shestoper_pl|Flanged Maces
+itm_kalmyk_palash|Eastern Broadsword
+itm_kalmyk_palash_pl|Eastern Broadswords
+itm_mace_1|spiked club
+itm_mace_1_pl|Spiked Club
+itm_mace_2|Knobbed Mace
+itm_mace_2_pl|Knobbed Mace
+itm_mace_3|Spiked Mace
+itm_mace_3_pl|Spiked Mace
+itm_mace_4|Winged Mace
+itm_mace_4_pl|Winged Mace
+itm_club_with_spike_head|Club with Spike
+itm_club_with_spike_head_pl|Club with Spike
+itm_staff|Staff
+itm_staff_pl|Staff
+itm_quarter_staff|Quarter Staff
+itm_quarter_staff_pl|Quarter Staff
+itm_pike|Pike
+itm_pike_pl|Pike
+itm_wooden_shield|Wooden Shield
+itm_wooden_shield_pl|Wooden Shield
+itm_round_shield_steel_a|Good Steel Shield
+itm_round_shield_steel_a_pl|Good Steel Shields
+itm_round_shield_steel_b|Steel Shield
+itm_round_shield_steel_b_pl|Steel Shields
+itm_round_shield|Simple Shield
+itm_round_shield_pl|Simple Shields
+itm_round_shield_b|Kalkan Shield
+itm_round_shield_b_pl|Kalkan Shields
+itm_round_shield_c|Tatar Shield
+itm_round_shield_c_pl|Tatar Shields
+itm_round_shield_d|Solid Shield
+itm_round_shield_d_pl|Solid Shields
+itm_shield|Shield
+itm_shield_pl|Shields
+itm_tarch_a|Turkish Shield
+itm_tarch_a_pl|Turkish Shields
+itm_tarch_b|Turkish Shield
+itm_tarch_b_pl|Turkish Shields
+itm_rundash|Buckler
+itm_rundash_pl|Bucklers
+itm_tab_shield_round_a|Old Round Shield
+itm_tab_shield_round_a_pl|Old Round Shield
+itm_tab_shield_round_b|Plain Round Shield
+itm_tab_shield_round_b_pl|Plain Round Shield
+itm_tab_shield_round_c|Round Shield
+itm_tab_shield_round_c_pl|Round Shield
+itm_tab_shield_round_d|Heavy Round Shield
+itm_tab_shield_round_d_pl|Heavy Round Shield
+itm_tab_shield_round_e|Huscarl's Round Shield
+itm_tab_shield_round_e_pl|Huscarl's Round Shield
+itm_tab_shield_kite_a|Old Kite Shield
+itm_tab_shield_kite_a_pl|Old Kite Shield
+itm_tab_shield_kite_b|Plain Kite Shield
+itm_tab_shield_kite_b_pl|Plain Kite Shield
+itm_tab_shield_kite_c|Kite Shield
+itm_tab_shield_kite_c_pl|Kite Shield
+itm_tab_shield_kite_d|Heavy Kite Shield
+itm_tab_shield_kite_d_pl|Heavy Kite Shield
+itm_tab_shield_kite_cav_a|Horseman's Kite Shield
+itm_tab_shield_kite_cav_a_pl|Horseman's Kite Shield
+itm_tab_shield_kite_cav_b|Knightly Kite Shield
+itm_tab_shield_kite_cav_b_pl|Knightly Kite Shield
+itm_tab_shield_heater_a|Old Heater Shield
+itm_tab_shield_heater_a_pl|Old Heater Shield
+itm_tab_shield_heater_b|Plain Heater Shield
+itm_tab_shield_heater_b_pl|Plain Heater Shield
+itm_tab_shield_heater_c|Heater Shield
+itm_tab_shield_heater_c_pl|Heater Shield
+itm_tab_shield_heater_d|Heavy Heater Shield
+itm_tab_shield_heater_d_pl|Heavy Heater Shield
+itm_tab_shield_heater_cav_a|Horseman's Heater Shield
+itm_tab_shield_heater_cav_a_pl|Horseman's Heater Shield
+itm_tab_shield_heater_cav_b|Knightly Heater Shield
+itm_tab_shield_heater_cav_b_pl|Knightly Heater Shield
+itm_tab_shield_pavise_a|Old Board Shield
+itm_tab_shield_pavise_a_pl|Old Board Shield
+itm_tab_shield_pavise_b|Plain Board Shield
+itm_tab_shield_pavise_b_pl|Plain Board Shield
+itm_tab_shield_pavise_c|Board Shield
+itm_tab_shield_pavise_c_pl|Board Shield
+itm_tab_shield_pavise_d|Heavy Board Shield
+itm_tab_shield_pavise_d_pl|Heavy Board Shield
+itm_tab_shield_small_round_a|Plain Cavalry Shield
+itm_tab_shield_small_round_a_pl|Plain Cavalry Shield
+itm_tab_shield_small_round_b|Round Cavalry Shield
+itm_tab_shield_small_round_b_pl|Round Cavalry Shield
+itm_tab_shield_small_round_c|Elite Cavalry Shield
+itm_tab_shield_small_round_c_pl|Elite Cavalry Shield
+itm_jarid|Jarid
+itm_jarid_pl|Jarid
+itm_jarid_melee|Jarid
+itm_jarid_melee_pl|Jarid
+itm_stones|Stones
+itm_stones_pl|Stones
+itm_throwing_knives|Throwing Knives
+itm_throwing_knives_pl|Throwing Knives
+itm_throwing_daggers|Throwing Daggers
+itm_throwing_daggers_pl|Throwing Daggers
+itm_samopal|Handmade Firearm
+itm_samopal_pl|Handmade Firearms
+itm_samopal_b|Handmade Firearm
+itm_samopal_b_pl|Handmade Firearms
+itm_old_musket|Matchlock Musket
+itm_old_musket_pl|Matchlock Muskets
+itm_old_musket_b|Matchlock Musket
+itm_old_musket_b_pl|Matchlock Muskets
+itm_musket|Simple Wheellock Musket
+itm_musket_pl|Simple Wheellock Muskets
+itm_good_musket|Wheellock Musket
+itm_good_musket_pl|Wheellock Muskets
+itm_turk_musket_fitil_a|Matchlock Musket
+itm_turk_musket_fitil_a_pl|Matchlock Muskets
+itm_turk_musket_fitil_b|Good Matchlock Musket
+itm_turk_musket_fitil_b_pl|Good Matchlock Muskets
+itm_turk_musket_koleso|Wheellock Musket
+itm_turk_musket_koleso_pl|Wheellock Muskets
+itm_turk_musket|Miquelet Musket
+itm_turk_musket_pl|Miquelet Muskets
+itm_turk_musket_b|Good Miquelet Musket
+itm_turk_musket_b_pl|Good Miquelet Muskets
+itm_mushket_udarniy|Miquelet Musket
+itm_mushket_udarniy_pl|Miquelet Muskets
+itm_mushket_udarniy_b|Miquelet Musket
+itm_mushket_udarniy_b_pl|Miquelet Muskets
+itm_karabin_old_a|Matchlock Carbine
+itm_karabin_old_a_pl|Matchlock Carbines
+itm_karabin_old_b|Matchlock Carbine
+itm_karabin_old_b_pl|Matchlock Carbines
+itm_karabin|Simple Wheellock Carbine
+itm_karabin_pl|Simple Wheellock Carbines
+itm_karabin_good|Wheellock Carbine
+itm_karabin_good_pl|Wheellock Carbines
+itm_karabin_batarey|Miquelet Carbine
+itm_karabin_batarey_pl|Miquelet Carbines
+itm_karabin_batarey_good|Good Miquelet Carbine
+itm_karabin_batarey_good_pl|Good Miquelet Carbines
+itm_old_pistol|Old Pistol
+itm_old_pistol_pl|Old Pistols
+itm_pistol|Pistol
+itm_pistol_pl|Pistols
+itm_pistol_b|Pistol
+itm_pistol_b_pl|Pistols
+itm_good_pistol|Good Pistol
+itm_good_pistol_pl|Good Pistols
+itm_good_pistol_b|Good Pistol
+itm_good_pistol_b_pl|Good Pistols
+itm_good_pistol_c|Good Pistol
+itm_good_pistol_c_pl|Good Pistols
+itm_granata|Large Grenade
+itm_granata_pl|Large Grenades
+itm_granata_medium|Medium Grenade
+itm_granata_medium_pl|Medium Grenades
+itm_granata_small|Small Grenade
+itm_granata_small_pl|Small Grenades
+itm_luk|Longbow
+itm_luk_pl|Longbows
+itm_luk_b|Longbow
+itm_luk_b_pl|Longbows
+itm_luk_c|Bow
+itm_luk_c_pl|Bows
+itm_kompozit_bow_b|Tatar Bow
+itm_kompozit_bow_b_pl|Tatar Bows
+itm_kompozit_bow|Composite Bow
+itm_kompozit_bow_pl|Composite Bows
+itm_zakaz_pistol1|Hand-crafted Pistol
+itm_zakaz_pistol1_pl|Hand-crafted Pistols
+itm_zakaz_pistol2|Dutch Pistol
+itm_zakaz_pistol2_pl|Dutch Pistols
+itm_zakaz_2stwol_koleso2|Double-barreled Wheellock Carbine
+itm_zakaz_2stwol_koleso2_pl|Double-barreled Wheellock Carbines
+itm_zakaz_2stwol_koleso|Double-barreled Dutch Carbine
+itm_zakaz_2stwol_koleso_pl|Double-barreled Dutch Carbines
+itm_zakaz_2stwol_udar1|Double-barreled Miquelet Pistol
+itm_zakaz_2stwol_udar1_pl|Double-barreled Miquelet Pistols
+itm_zakaz_2stwol_udar2|Double-barreled Dutch Pistol
+itm_zakaz_2stwol_udar2_pl|Double-barreled Dutch Pistols
+itm_zakaz_karabin|Hand-crafted Carbine
+itm_zakaz_karabin_pl|Hand-crafted Carbines
+itm_zakaz_ewro_puha|Hand-crafted European Musket
+itm_zakaz_ewro_puha_pl|Hand-crafted European Muskets
+itm_zakaz_turok_puha|Hand-crafted Turkish Musket
+itm_zakaz_turok_puha_pl|Hand-crafted Turkish Muskets
+itm_zakaz_luk1|Tatar Bow
+itm_zakaz_luk1_pl|Tatar Bows
+itm_zakaz_luk2|Hand-crafted Bow
+itm_zakaz_luk2_pl|Hand-crafted Bows
+itm_zakaz_shield_s|Hand-crafted Shield
+itm_zakaz_shield_s_pl|Hand-crafted Shields
+itm_zakaz_armet|Armet
+itm_zakaz_armet_pl|Armet
+itm_zakaz_greben|Hand-crafted Hussar Helmet
+itm_zakaz_greben_pl|Hand-crafted Hussar Helmets
+itm_zakaz_boyar|Hand-crafted Noble Helmet
+itm_zakaz_boyar_pl|Hand-crafted Noble Helmets
+itm_zakaz_morion|Hand-crafted Morion
+itm_zakaz_morion_pl|Hand-crafted Morions
+itm_zakaz_reytar_b|Hand-crafted Reiter Helmet
+itm_zakaz_reytar_b_pl|Hand-crafted Reiter Helmets
+itm_zakaz_helm_tatar|Hand-crafted Tatar Helmet
+itm_zakaz_helm_tatar_pl|Hand-crafted Tatar Helmets
+itm_zakaz_panzer_shkura|Hand-crafted Hussar Armor
+itm_zakaz_panzer_shkura_pl|Hand-crafted Hussar Armor
+itm_zakaz_laty|Hand-crafted Armor
+itm_zakaz_laty_pl|Hand-crafted Armor
+itm_zakaz_black_lat|Hand-crafted Black Armor
+itm_zakaz_black_lat_pl|Hand-crafted Black Armor
+itm_zakaz_zertzalo|Hand-crafted Mirror Armor
+itm_zakaz_zertzalo_pl|Hand-crafted Mirror Armor
+itm_zakaz_ushman|Hand-crafted Yushman
+itm_zakaz_ushman_pl|Hand-crafted Yushmans
+itm_zakaz_sabla1|Hand-crafted Saber
+itm_zakaz_sabla1_pl|Hand-crafted Sabers
+itm_zakaz_sabla2|Hand-crafted Damascus steel Saber
+itm_zakaz_sabla2_pl|Hand-crafted Damascus steel Sabers
+itm_zakaz_spaga|Hand-crafted Rapier
+itm_zakaz_spaga_pl|Hand-crafted Rapiers
+itm_zakaz_berd|Hand-crafted Pole-axe
+itm_zakaz_berd_pl|Hand-crafted Pole-axes
+itm_zakaz_palash|Hand-crafted Broadsword
+itm_zakaz_palash_pl|Hand-crafted Broadswords
+itm_zakaz_twohand|Hand-crafted Two-handed Sword
+itm_zakaz_twohand_pl|Hand-crafted Two-handed Sword
+itm_zakaz_chekan|Hand-crafted Czekan
+itm_zakaz_chekan_pl|Hand-crafted Czekans
+itm_hunting_bow|Hunting Bow
+itm_hunting_bow_pl|Hunting Bow
+itm_hunting_crossbow|Hunting Crossbow
+itm_hunting_crossbow_pl|Hunting Crossbow
+itm_light_crossbow|Light Crossbow
+itm_light_crossbow_pl|Light Crossbow
+itm_heavy_crossbow|Heavy Crossbow
+itm_heavy_crossbow_pl|Heavy Crossbow
+itm_torch|Torch
+itm_torch_pl|Torch
+itm_practice_bow_2|Practice Bow
+itm_practice_bow_2_pl|Practice Bow
+itm_practice_arrows_2|Practice Arrows
+itm_practice_arrows_2_pl|Practice Arrows
+itm_mail_boots_for_tableau|Chainmail Boots
+itm_mail_boots_for_tableau_pl|Chainmail Boots
+itm_steel_bolts_10|Steel Bolts
+itm_steel_bolts_10_pl|Steel Bolts
+itm_oim_qst_horse|Thoroughbred Stallion
+itm_oim_qst_horse_pl|Amazing Horse
+itm_speshitsa|Dismount
+itm_speshitsa_pl|do not translate
+itm_nichego|[Nothing]
+itm_nichego_pl|do not translate
+itm_very_bad_horse|Dobbin
+itm_very_bad_horse_pl|Dobbins
+itm_bad_horse|Draught Horse
+itm_bad_horse_pl|Draught Horses
+itm_norm_horse|Saddle Horse
+itm_norm_horse_pl|Saddle Horses
+itm_good_horse|Steppe Horse
+itm_good_horse_pl|Steppe Horses
+itm_fast_horse|Racing Horse
+itm_fast_horse_pl|Racing Horses
+itm_tank_horse|War Horse
+itm_tank_horse_pl|War Horses
+itm_uber_horse|Purebred Horse
+itm_uber_horse_pl|Purebred Horses
+itm_bad_arrows|Cheap Arrows
+itm_bad_arrows_pl|Cheap Arrows
+itm_norm_arrows|Arrows
+itm_norm_arrows_pl|Arrows
+itm_good_arrows|Piercing Arrows
+itm_good_arrows_pl|Piercing Arrows
+itm_bad_bullets|Cheap Bullets
+itm_bad_bullets_pl|Cheap Bullets
+itm_norm_bullets|Bullets
+itm_norm_bullets_pl|Bullets
+itm_good_bullets|Quality Bullets
+itm_good_bullets_pl|Quality Bullets
+itm_samopal_m|Harquebus
+itm_samopal_m_pl|Harquebus
+itm_samopal_m_melee|Harquebus
+itm_samopal_m_melee_pl|Harquebus
+itm_bad_pistol|Rusty Pistol
+itm_bad_pistol_pl|Rusty Pistols
+itm_bad_pistol_melee|Rusty Pistol
+itm_bad_pistol_melee_pl|Rusty Pistols
+itm_norm_pistol|Pistol
+itm_norm_pistol_pl|Pistols
+itm_norm_pistol_melee|Pistol
+itm_norm_pistol_melee_pl|Pistols
+itm_fast_pistol|Rapid-firing Pistol
+itm_fast_pistol_pl|Rapid-firing Pistols
+itm_fast_pistol_melee|Rapid-firing Pistol
+itm_fast_pistol_melee_pl|Rapid-firing Pistols
+itm_power_pistol|Long-barreled Pistol
+itm_power_pistol_pl|Long-barreled Pistols
+itm_power_pistol_melee|Long-barreled Pistol
+itm_power_pistol_melee_pl|Long-barreled Pistols
+itm_uber_pistol|Good Pistol
+itm_uber_pistol_pl|Good Pistols
+itm_uber_pistol_melee|Good Pistol
+itm_uber_pistol_melee_pl|Good Pistols
+itm_bad_karabin|Rusty Carbine
+itm_bad_karabin_pl|Rusty Carbines
+itm_bad_karabin_melee|Rusty Carbine
+itm_bad_karabin_melee_pl|Rusty Carbines
+itm_norm_karabin|Carbine
+itm_norm_karabin_pl|Carbines
+itm_norm_karabin_melee|Carbine
+itm_norm_karabin_melee_pl|Carbines
+itm_good_karabin|Good Carbine
+itm_good_karabin_pl|Good Carbines
+itm_good_karabin_melee|Good Carbine
+itm_good_karabin_melee_pl|Good Carbines
+itm_uber_karabin|Miquelet Carbine
+itm_uber_karabin_pl|Miquelet Carbines
+itm_uber_karabin_melee|Miquelet Carbine
+itm_uber_karabin_melee_pl|Miquelet Carbines
+itm_bad_musket|Rusty Musket
+itm_bad_musket_pl|Rusty Muskets
+itm_bad_musket_melee|Rusty Musket
+itm_bad_musket_melee_pl|Rusty Muskets
+itm_norm_musket|Musket
+itm_norm_musket_pl|Muskets
+itm_norm_musket_melee|Musket
+itm_norm_musket_melee_pl|Muskets
+itm_good_musket_m|Good Musket
+itm_good_musket_m_pl|Good Muskets
+itm_good_musket_m_melee|Good Musket
+itm_good_musket_m_melee_pl|Good Muskets
+itm_uber_mushket|Miquelet Musket
+itm_uber_mushket_pl|Miquelet Muskets
+itm_uber_mushket_melee|Miquelet Musket
+itm_uber_mushket_melee_pl|Miquelet Muskets
+itm_t_bad_musket|Rusty Musket
+itm_t_bad_musket_pl|Rusty Muskets
+itm_t_bad_musket_melee|Rusty Musket
+itm_t_bad_musket_melee_pl|Rusty Muskets
+itm_t_norm_musket|Musket
+itm_t_norm_musket_pl|Muskets
+itm_t_norm_musket_melee|Musket
+itm_t_norm_musket_melee_pl|Muskets
+itm_t_good_musket|Good Musket
+itm_t_good_musket_pl|Good Muskets
+itm_t_good_musket_melee|Good Musket
+itm_t_good_musket_melee_pl|Good Muskets
+itm_t_uber_musket|Miquelet Musket
+itm_t_uber_musket_pl|Miquelet Muskets
+itm_t_uber_musket_melee|Miquelet Musket
+itm_t_uber_musket_melee_pl|Miquelet Muskets
+itm_m_dwustwol_karabin|Double-barreled Carbine
+itm_m_dwustwol_karabin_pl|Double-barreled Carbines
+itm_m_dwustwol_karabin_melee|Carbine
+itm_m_dwustwol_karabin_melee_pl|Carbine
+itm_m_dwustwol_pistol|Double-barreled Pistol
+itm_m_dwustwol_pistol_pl|Double-barreled Pistols
+itm_m_dwustwol_pistol_melee|not to be translated
+itm_m_dwustwol_pistol_melee_pl|not to be translated
+itm_bad_luk|Hunting Bow
+itm_bad_luk_pl|Hunting Bows
+itm_norm_luk|Bow
+itm_norm_luk_pl|Bows
+itm_gud_luk|Powerful Bow
+itm_gud_luk_pl|Powerful Bows
+itm_uber_luk|Composite Bow
+itm_uber_luk_pl|Composite Bows
+itm_bad_shield|Flimsy Shield
+itm_bad_shield_pl|Flimsy Shields
+itm_norm_shield|Shield
+itm_norm_shield_pl|Shields
+itm_good_shield|Thick Shield
+itm_good_shield_pl|Thick Shield
+itm_stal_shield|Iron Shield
+itm_stal_shield_pl|Iron Shields
+itm_uber_shield|Steel Shield
+itm_uber_shield_pl|Steel Shields
+itm_bad_shpaga|Rusty Sword
+itm_bad_shpaga_pl|Rusty Swords
+itm_norm_shpaga|Sword
+itm_norm_shpaga_pl|Swords
+itm_good_shpaga_m|Good Sword
+itm_good_shpaga_m_pl|Good Swords
+itm_bad_palash|Rusty Broadsword
+itm_bad_palash_pl|Rusty Broadswords
+itm_norm_palash|Broadsword
+itm_norm_palash_pl|Broadswords
+itm_good_palash_m|Good Broadsword
+itm_good_palash_m_pl|Good Broadswords
+itm_bad_p_palash|Rusty Broadsword
+itm_bad_p_palash_pl|Rusty Broadswords
+itm_norm_p_palash|Broadsword
+itm_norm_p_palash_pl|Broadswords
+itm_good_p_palash|Good Broadsword
+itm_good_p_palash_pl|Good Broadswords
+itm_bad_sablya_a|Good Broadsword
+itm_bad_sablya_a_pl|Good Broadswords
+itm_norm_sablya_a|Saber
+itm_norm_sablya_a_pl|Sabers
+itm_good_sablya_a|Good Saber
+itm_good_sablya_a_pl|Good Sabers
+itm_bad_sablya_b|Rusty Saber
+itm_bad_sablya_b_pl|Rusty Sabers
+itm_norm_sablya_b|Saber
+itm_norm_sablya_b_pl|Sabers
+itm_good_sablya_b|Good Saber
+itm_good_sablya_b_pl|Good Sabers
+itm_t_bad_sablya_a|Rusty Saber
+itm_t_bad_sablya_a_pl|Rusty Sabers
+itm_t_norm_sablya_a|Saber
+itm_t_norm_sablya_a_pl|Sabers
+itm_t_good_sablya_a|Good Saber
+itm_t_good_sablya_a_pl|Good Sabers
+itm_norn_k_shablya|Cossack Saber
+itm_norn_k_shablya_pl|Cossack Sabers
+itm_good_k_shablya|Good Cossack Saber
+itm_good_k_shablya_pl|Good Cossack Sabers
+itm_bad_toporik|Hatchet
+itm_bad_toporik_pl|Hatchets
+itm_good_toporik|Good Hatchet
+itm_good_toporik_pl|Good Hatchets
+itm_bad_chekan|Chekan
+itm_bad_chekan_pl|Chekans
+itm_good_chekan|Good Chekan
+itm_good_chekan_pl|Good Chekans
+itm_bad_bulava|Mace
+itm_bad_bulava_pl|Maces
+itm_good_bulava|Good Mace
+itm_good_bulava_pl|Good Maces
+itm_bad_berdish|Pole-axe
+itm_bad_berdish_pl|Pole-axes
+itm_good_berdish|Balanced Pole-axe
+itm_good_berdish_pl|Balanced Pole-axes
+itm_m_sovnya|Sovnya
+itm_m_sovnya_pl|Sovnyas
+itm_m_alebarda|Halberd
+itm_m_alebarda_pl|Halberds
+itm_m_twohand_sword|Two-handed Sword
+itm_m_twohand_sword_pl|Two-handed Swords
+itm_m_kleymor|Claymore
+itm_m_kleymor_pl|Claymores
+itm_bad_pike|Old Pike
+itm_bad_pike_pl|Old Pikes
+itm_norm_pika|Pike
+itm_norm_pika_pl|Pikes
+itm_good_pike_m|Balanced Pike
+itm_good_pike_m_pl|Balanced Pikes
+itm_bad_spear|Old Spear
+itm_bad_spear_pl|Old Spears
+itm_good_spear|Spear
+itm_good_spear_pl|Spear
+itm_bad_lance|Old Lance
+itm_bad_lance_pl|Old Lance
+itm_norm_lance|Lance
+itm_norm_lance_pl|Lances
+itm_good_lance|Heavy Lance
+itm_good_lance_pl|Heavy Lances
+itm_gusar_lance|Hussar Lance
+itm_gusar_lance_pl|Hussar Lances
+itm_m_mosk_pehota_forma|Marksman Uniform
+itm_m_mosk_pehota_forma_pl|Marksman Uniforms
+itm_m_mosk_strelok_forma|Marksman Uniform
+itm_m_mosk_strelok_forma_pl|Marksman Uniforms
+itm_m_mosk_kava_forma|Broadcloth
+itm_m_mosk_kava_forma_pl|Broadclothes
+itm_m_mosk_bad_armor|Tegilai
+itm_m_mosk_bad_armor_pl|Tegilai
+itm_m_mosk_light_armor|Short Bakhterets
+itm_m_mosk_light_armor_pl|Short Bakhteretses
+itm_m_mosk_norm_armor|Bakhterets
+itm_m_mosk_norm_armor_pl|Bakhterets
+itm_m_mosk_good_armor|Mirror Armor
+itm_m_mosk_good_armor_pl|Mirror Armor
+itm_m_mosk_notsogood_armor|Brigandine
+itm_m_mosk_notsogood_armor_pl|Brigandines
+itm_m_pol_pehota_forma|Pikemen Uniform
+itm_m_pol_pehota_forma_pl|Pikemen Uniforms
+itm_m_pol_strelok_forma|Musketeer Uniform
+itm_m_pol_strelok_forma_pl|Musketeer Uniforms
+itm_m_pol_kava_forma|Dragoon Uniform
+itm_m_pol_kava_forma_pl|Dragoon Uniforms
+itm_m_pol_light_armor|Armor-clad Jacket
+itm_m_pol_light_armor_pl|Armor-clad Jackets
+itm_m_pol_norm_armor|Chain mail
+itm_m_pol_norm_armor_pl|Chain mail
+itm_m_pol_good_k_armor|Coat of mail
+itm_m_pol_good_k_armor_pl|Coats of mail
+itm_m_pol_good_p_armor|Cuirass
+itm_m_pol_good_p_armor_pl|Cuirasses
+itm_m_pol_uber_p_armor|Armor
+itm_m_pol_uber_p_armor_pl|Armor
+itm_m_pol_uber_k_armor|Hussar Armor with Hide
+itm_m_pol_uber_k_armor_pl|Hussar Armors with Hide
+itm_m_ukr_pehota_forma|Zupan
+itm_m_ukr_pehota_forma_pl|Zupans
+itm_m_ukr_strelok_forma|Zupan
+itm_m_ukr_strelok_forma_pl|Zupans
+itm_m_ukr_kava_forma|Zupan
+itm_m_ukr_kava_forma_pl|Zupans
+itm_m_ukr_bad_armor|Armor-clad Zupan
+itm_m_ukr_bad_armor_pl|Armor-clad Zupans
+itm_m_ukr_light_armor|Leather-clad Zupan
+itm_m_ukr_light_armor_pl|Leather-clad Zupans
+itm_m_ukr_norm_armor|Chain mail
+itm_m_ukr_norm_armor_pl|Chain mail
+itm_m_ukr_good_armor|Zupan with chain mail
+itm_m_ukr_good_armor_pl|Zupans with chain mail
+itm_m_ttr_archer_forma|Robe
+itm_m_ttr_archer_forma_pl|Robes
+itm_m_ttr_kava_forma|Robe
+itm_m_ttr_kava_forma_pl|Robes
+itm_m_ttr_bad_armor_a|Thick Robe
+itm_m_ttr_bad_armor_a_pl|Thick Robes
+itm_m_ttr_bad_armor_b|Thick Robe
+itm_m_ttr_bad_armor_b_pl|Thick Robes
+itm_m_ttr_light_armor_a|Quilted Robe
+itm_m_ttr_light_armor_a_pl|Quilted Robes
+itm_m_ttr_light_armor_b|Quilted Robe
+itm_m_ttr_light_armor_b_pl|Quilted Robes
+itm_m_ttr_norm_armor|Chain mail
+itm_m_ttr_norm_armor_pl|Chain mail
+itm_m_ttr_good_armor|Yushman
+itm_m_ttr_good_armor_pl|Yushmans
+itm_m_swed_pehot_forma|Outfit
+itm_m_swed_pehot_forma_pl|Outfit
+itm_m_swed_strelok_forma|Musketeer Uniform
+itm_m_swed_strelok_forma_pl|Musketeer Uniforms
+itm_m_swed_kava_forma|Dragoon Uniform
+itm_m_swed_kava_forma_pl|Dragoon Uniforms
+itm_m_swed_light_armor|Leather Camisole
+itm_m_swed_light_armor_pl|Leather Camisoles
+itm_m_swed_norm_armor|Half-Cuirass
+itm_m_swed_norm_armor_pl|Half-Cuirasses
+itm_m_swed_good_p_armor|Cuirass
+itm_m_swed_good_p_armor_pl|Cuirasses
+itm_m_swed_uber_p_armor|Half-Armor
+itm_m_swed_uber_p_armor_pl|Half-Armor
+itm_m_swed_good_k_armor|Reiter Half-Armor
+itm_m_swed_good_k_armor_pl|Reiter Half-Armor
+itm_m_swed_shapka|Hat
+itm_m_swed_shapka_pl|Hats
+itm_m_swed_light_helmet|Rusty Morion
+itm_m_swed_light_helmet_pl|Rusty Morions
+itm_m_swed_norm_p_helmet|Morion
+itm_m_swed_norm_p_helmet_pl|Morions
+itm_m_swed_good_k_helmet|Reiter Helmet
+itm_m_swed_good_k_helmet_pl|Reiter Helmets
+itm_m_swed_good_p_helmet|Armet
+itm_m_swed_good_p_helmet_pl|Armet
+itm_m_mosk_shapka|Hat
+itm_m_mosk_shapka_pl|Hats
+itm_m_mosk_light_helmet|Paper Hat
+itm_m_mosk_light_helmet_pl|Paper Hats
+itm_m_mosk_norm_helmet|Iron Hat
+itm_m_mosk_norm_helmet_pl|Iron Hats
+itm_m_mosk_good_helmet|Cone
+itm_m_mosk_good_helmet_pl|Cones
+itm_m_mosk_uber_helmet|Boyar Helmet
+itm_m_mosk_uber_helmet_pl|Boyar Helmets
+itm_m_pol_shapka|Hat
+itm_m_pol_shapka_pl|Hats
+itm_m_pol_good_shapka|Hat
+itm_m_pol_good_shapka_pl|Hats
+itm_m_pol_light_helmet|Misiurka
+itm_m_pol_light_helmet_pl|Misiurkas
+itm_m_pol_norm_helmet|Cabasset
+itm_m_pol_norm_helmet_pl|Cabassets
+itm_m_pol_good_helmet|Hussar Helmet
+itm_m_pol_good_helmet_pl|Hussar Helmets
+itm_m_pol_uber_helmet|Reiter Helmet
+itm_m_pol_uber_helmet_pl|Reiter Helmets
+itm_m_ukr_shapka|Hat
+itm_m_ukr_shapka_pl|Hats
+itm_m_ukr_light_helmet|Misiurka
+itm_m_ukr_light_helmet_pl|Misiurkas
+itm_m_ukr_norm_helmet|Hat with Misiurka
+itm_m_ukr_norm_helmet_pl|Hats with Misiurka
+itm_m_ttr_shapka|Hat
+itm_m_ttr_shapka_pl|Hats
+itm_m_ttr_light_helmet|Misiurka
+itm_m_ttr_light_helmet_pl|Misiurkas
+itm_m_ttr_norm_helmet|Light Helmet
+itm_m_ttr_norm_helmet_pl|Light Helmets
+itm_m_ttr_good_helmet|Helmet
+itm_m_ttr_good_helmet_pl|Helmets
+itm_m_granata_small|Grenade
+itm_m_granata_small_pl|Grenades
+itm_bad_gloves|Battered Gloves
+itm_bad_gloves_pl|Battered Gloves
+itm_norm_gloves|Leather Gloves
+itm_norm_gloves_pl|Leather Gloves
+itm_good_gloves|Fur Gloves
+itm_good_gloves_pl|Fur Gloves
+itm_uber_gloves|Gauntlets
+itm_uber_gloves_pl|Gauntlets
+itm_bad_boots|Village Boots
+itm_bad_boots_pl|Village Boots
+itm_bad_boots_mosk|Bast Shoes
+itm_bad_boots_mosk_pl|Bast Shoes
+itm_bad_boots_swed|Shoes
+itm_bad_boots_swed_pl|Shoes
+itm_bad_boots_k|Old Cavalry Boots
+itm_bad_boots_k_pl|Old Cavalry Boots
+itm_norm_boots_k|Cavalry Boots
+itm_norm_boots_k_pl|Cavalry Boots
+itm_good_boots_k|Good Cavalry Boots
+itm_good_boots_k_pl|Good Cavalry Boots
+itm_bad_boots_p|Old Boots
+itm_bad_boots_p_pl|Old Boots
+itm_norm_boots_p|Boots
+itm_norm_boots_p_pl|Boots
+itm_good_boots_p|Good Boots
+itm_good_boots_p_pl|Good Boots
+itm_bad_botforts|Old Jackboots
+itm_bad_botforts_pl|Old Jackboots
+itm_norm_botforts|Jackboots
+itm_norm_botforts_pl|Jackboots
+itm_good_botforts|Good Jackboots
+itm_good_botforts_pl|Good Jackboots
+itm_good_boots_ttr|Good Boots
+itm_good_boots_ttr_pl|Good Boots
+itm_noob_dubinka|Club
+itm_noob_dubinka_pl|Club
+itm_noob_toporik|Hatchet
+itm_noob_toporik_pl|Hatchet
+itm_m_janissar_hat|Janissary hat
+itm_m_janissar_hat_pl|Janissary hats
+itm_m_yanichar_forma|Janissary Uniform
+itm_m_yanichar_forma_pl|Janissary Uniforms
+itm_m_janissary_tapki|Janissary Shoes
+itm_m_janissary_tapki_pl|Janissary Shoes
+itm_m_yatagan_bad|Yataghan
+itm_m_yatagan_bad_pl|Yataghans
+itm_m_yatagan_good|Damascus steel Yataghan
+itm_m_yatagan_good_pl|Damascus steel Yataghans
+itm_duel_sword|Dueling Sword
+itm_duel_sword_pl|Dueling Sword
+itm_items_end|End of list
+itm_items_end_pl|End of list

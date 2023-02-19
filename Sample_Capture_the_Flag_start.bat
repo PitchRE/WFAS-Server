@@ -1,0 +1,1 @@
+mb_wfas_dedicated.exe -r Sample_Capture_the_Flag.txt -m Ogniem i Mieczem

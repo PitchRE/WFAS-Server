@@ -1,0 +1,1 @@
+mb_wfas_dedicated.exe -r Sample_Siege.txt -m Ogniem i Mieczem

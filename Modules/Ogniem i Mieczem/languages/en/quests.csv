@@ -1,0 +1,259 @@
+qst_deliver_message|Deliver a Message to {s13}
+qst_deliver_message_text|{s9} asked you to take a message to {s13}. {s13} was at {s4} when you were given this quest.
+qst_deliver_message_to_enemy_lord|Deliver a Message to {s13}
+qst_deliver_message_to_enemy_lord_text|{s9} asked you to take a message to {s13} of {s15}. {s13} was at {s4} when you were given this quest.
+qst_raise_troops|Raise {reg1} {s14}
+qst_raise_troops_text|{s9} asked you to raise {reg1} {s14} and bring them to him.
+qst_escort_lady|Escort {s13} to {s14}
+qst_escort_lady_text|None
+qst_deal_with_bandits_at_lords_village|Save the Village of {s15}
+qst_deal_with_bandits_at_lords_village_text|{s13} asked you to deal with the bandits who have taken refuge in his village of {s15}, and then report back to him.
+qst_collect_taxes|Collect Taxes from {s3}
+qst_collect_taxes_text|{s9} asked you to collect taxes from {s3}. He offered to give you one-fifth of all the money you collect there.
+qst_hunt_down_fugitive|Hunt Down {s4}
+qst_hunt_down_fugitive_text|{s9} asked you to hunt down the fugitive named {s4}. He is currently believed to be at {s3}.
+qst_kill_local_merchant|Assassinate Local Merchant at {s3}
+qst_kill_local_merchant_text|{s9} asked you to assassinate a local merchant at {s3}.
+qst_bring_back_runaway_serfs|Bring Back Runaway Serfs
+qst_bring_back_runaway_serfs_text|{s9} asked you to find the three groups of runaway serfs, and bring them back to {s2}. He said all three groups were fleeing in the direction of {s3}.
+qst_follow_spy|Follow the Spy to the Meeting
+qst_follow_spy_text|{s11} asked you to follow the spy who will be leaving from {s12}. You must be careful not to be seen by the spy during his travel, or he may become suspicious and turn back. Once the spy meets with his accomplice, you are to ambush and capture them, and bring them both back to {s11}.
+qst_capture_enemy_hero|Capture a Lord from {s13}
+qst_capture_enemy_hero_text|TODO: {s11} asked you to capture a lord from {s13}.
+qst_lend_companion|Lend Your Companion {s3} to {s9}
+qst_lend_companion_text|{s9} asked you to lend your companion {s3} to him for a week.
+qst_collect_debt|Collect the debt that {s3} owes to {s9}
+qst_collect_debt_text|{s9} asked you to collect the debt of {reg4} thaler that {s3} owes to him.
+qst_incriminate_loyal_commander|Incriminate the Loyal Commander of {s13}, {s16}
+qst_incriminate_loyal_commander_text|None
+qst_raid_caravan_to_start_war|Raid {reg13} Caravans of {s13}
+qst_raid_caravan_to_start_war_text|None
+qst_meet_spy_in_enemy_town|Meet Spy in {s13}
+qst_meet_spy_in_enemy_town_text|None
+qst_capture_prisoners|Bring {reg1} {s3} Prisoners
+qst_capture_prisoners_text|{s9} wanted you to bring him {reg1} {s3} as prisoners.
+qst_lend_surgeon|Lend Your Surgeon {s3} to {s1}
+qst_lend_surgeon_text|Lend your experienced surgeon {s3} to {s1}.
+qst_follow_army|Follow {s9}'s Army
+qst_follow_army_text|None
+qst_report_to_army|Report to Marshall {s13}
+qst_report_to_army_text|None
+qst_deliver_cattle_to_army|Deliver {reg3} Head of Cattle to {s13}
+qst_deliver_cattle_to_army_text|None
+qst_join_siege_with_army|Join the Siege of {s14}
+qst_join_siege_with_army_text|None
+qst_scout_waypoints|Scout {s13}, {s14}, and {s15}
+qst_scout_waypoints_text|None
+qst_rescue_lord_by_replace|Rescue {s13} from {s14}
+qst_rescue_lord_by_replace_text|None
+qst_deliver_message_to_prisoner_lord|Deliver a Message to {s13} at {s14}
+qst_deliver_message_to_prisoner_lord_text|None
+qst_duel_for_lady|Challenge {s13} to a Trial of Arms
+qst_duel_for_lady_text|None
+qst_move_cattle_herd|Move Cattle Herd to {s13}
+qst_move_cattle_herd_text|The mayor of {s10} asked you to move a cattle herd to {s13}.
+qst_escort_merchant_caravan|Escort the Merchant Caravan to {s8}
+qst_escort_merchant_caravan_text|Escort the merchant caravan to the town of {s8}.
+qst_deliver_wine|Deliver {reg5} Units of {s6} to {s4}
+qst_deliver_wine_text|{s9} of {s3} asked you to deliver {reg5} units of {s6} to the tavern in {s4} within the next seven days.
+qst_troublesome_bandits|Hunt Down the Troublesome Bandits
+qst_troublesome_bandits_text|{s9} of {s4} asked you to hunt down the troublesome bandits in the vicinity of the town.
+qst_kidnapped_girl|Ransom the Girl from the Bandits
+qst_kidnapped_girl_text|The mayor of {s4} gave you {reg12} thaler to pay the ransom of a girl kidnapped by bandits. You are to meet the bandits near {s3} and pay them the ransom. After that, you are to return the girl to {s4}.
+qst_persuade_lords_to_make_peace|Ensure that Neither Lord Objects to Peace
+qst_persuade_lords_to_make_peace_text|The Mayor of {s4} promised you {reg12} thaler if you can ensure that neither {s12} nor {s13} pose a threat to a peace settlement between {s15} and {s14}. In order to do this, you must either convince them, or make sure they fall captive and remain so until a peace agreement is complete.
+qst_deal_with_looters|Deal with the Looters
+qst_deal_with_looters_text|The Mayor of {s4} has asked you to deal with several bands of looters around {s4}, and bring back any goods you recover.
+qst_deal_with_night_bandits|Deal with the Night Bandits
+qst_deal_with_night_bandits_text|TODO: The Mayor of {s14} has asked you to deal with night bandits at {s14}.
+qst_deliver_grain|Bring wheat to {s3}
+qst_deliver_grain_text|The elder of the village of {s3} has asked you to bring them {reg5} packs of wheat..
+qst_deliver_cattle|Cattle for {s3}
+qst_deliver_cattle_text|The elder of the village of {s3} has asked you to bring them {reg5} head of cattle.
+qst_train_peasants_against_bandits|A Bit of Training
+qst_train_peasants_against_bandits_text|None
+qst_eliminate_bandits_infesting_village|Bandits in {s7}
+qst_eliminate_bandits_infesting_village_text|A villager from {s7} begged you to save their village from the bandits that have taken up residence there.
+qst_join_faction|Oath of Homage to {s1}
+qst_join_faction_text|Find {s1} and give him your oath of homage.
+qst_rebel_against_kingdom|Support a Claimant to the Throne
+qst_rebel_against_kingdom_text|None
+qst_talk_to_zamoshie_elder|Talk to the Zamoshye Elder
+qst_talk_to_zamoshie_elder_text|Clermont mentioned that the elder of Zamoshye would pay you well for your services. Perhaps you might pay him a visit.
+qst_zamoshie_lower_taxes|Peasant Taxes
+qst_zamoshie_lower_taxes_text|Convince the warlord of Smolensk to lower the taxes of the Zamoshye peasants.
+qst_deal_with_zamoshie_bandits|Zamoshye Bandits
+qst_deal_with_zamoshie_bandits_text|Kill the Zamoshye bandits.
+qst_oim_bring_goods_zamoshie|Bring Goods to Zamoshye
+qst_oim_bring_goods_zamoshie_text|Deliver Salt to Ataman Naum Vasiliev in Zamoshye.
+qst_oim_trakay_icon|Elusive Priest
+qst_oim_trakay_icon_text|Elusive Priest
+qst_oim_bring_tatarin_to_sich|To the Sich with a Prisoner
+qst_oim_bring_tatarin_to_sich_text|To the Sich with a Prisoner
+qst_oim_bring_tatarin_to_perekop|To Perekop
+qst_oim_bring_tatarin_to_perekop_text|To Perekop
+qst_oim_sem_samuraev|The Splendid Seven
+qst_oim_sem_samuraev_text|The Splendid Seven
+qst_oim_lendliz|Help the Don Cossacks
+qst_oim_lendliz_text|Help the Don Cossacks
+qst_oim_lendliz2|Help the Don Cossacks
+qst_oim_lendliz2_text|Help the Don Cossacks
+qst_oim_monfor_shved|Recruit Clermont
+qst_oim_monfor_shved_text|Recruit Clermont
+qst_oim_monfor_shved_army|Royal Cortege
+qst_oim_monfor_shved_army_text|Royal Cortege
+qst_mest_i_zakon|Law and Vengeance
+qst_mest_i_zakon_text|Law and Vengeance
+qst_mest_i_zakon2|The Rescued Village
+qst_mest_i_zakon2_text|Law and Vengeance
+qst_mest_i_zakon3|Hmelnitski's Revenge
+qst_mest_i_zakon3_text|Law and Vengeance
+qst_oim_kidalovo_z_konyem|Half a Kingdom for a Horse
+qst_oim_kidalovo_z_konyem_text|Half a Kingdom for a Horse
+qst_oim_invest|Hidden Cache
+qst_oim_invest_text|Hidden Cache
+qst_oim_trubeckoy_rekomendation|Recommendation to Trubetskoy
+qst_oim_trubeckoy_rekomendation_text|Recommendation to Trubetskoy
+qst_oim_tzr_korsar|Corsair of the Tsar
+qst_oim_tzr_korsar_text|Corsair of the Tsar
+qst_oim_potop_main|The Deluge
+qst_oim_potop_main_text|The Deluge
+qst_oim_potop_find_zagloba|Colonel Zagloba
+qst_oim_potop_find_zagloba_text|Colonel Zagloba
+qst_oim_potop_deliver_letter|Bad News for the King
+qst_oim_potop_deliver_letter_text|Bad News for the King
+qst_oim_potop_deliver_swedish_solders|Raid the Swedish Rears
+qst_oim_potop_deliver_swedish_solders_text|Raid the Swedish Rears
+qst_oim_potop_deliver_swedish_troops_reward|Receive the Reward
+qst_oim_potop_deliver_swedish_troops_reward_text|Receive the Reward
+qst_oim_potop_defend_church|Polish Relic
+qst_oim_potop_defend_church_text|Polish Relic
+qst_oim_potop_defend_get_back_warshaw|Warsaw
+qst_oim_potop_defend_get_back_warshaw_text|Warsaw
+qst_oim_potop_capture_swedish_lord|Error of Protestant Ways
+qst_oim_potop_capture_swedish_lord_text|Error of Protestant Ways
+qst_oim_potop_shtirlic|The New Khan
+qst_oim_potop_alias|Tatar Ally
+qst_oim_potop_alias_text|Tatar Ally
+qst_oim_potop_return|Return of a Hero
+qst_oim_potop_return_text|Return of a Hero
+qst_oim_potop_kmitic|Damn Khovansky!
+qst_oim_potop_kmitic_text|Damn Khovansky!
+qst_oim_potop_volodievskiy|Kidnapped Bride
+qst_oim_potop_volodievskiy_text|Horse Thief
+qst_oim_potop_kshetuskiy|Horse Thief
+qst_oim_potop_kshetuskiy_text|Kidnapped Bride
+qst_oim_potop_marshal|Knapsack with Marshal's Baton
+qst_oim_potop_marshal_text|Knapsack with Marshal's Baton
+qst_oim_potop_marshal_started|Marshal Elections
+qst_oim_potop_marshal_started_text|Marshal Elections
+qst_oim_potop_mission_impossible|Liberator Hero
+qst_oim_potop_mission_impossible_text|Liberator Hero
+qst_oim_potop_capture_tszar|Hunt for the Tsar
+qst_oim_potop_capture_tszar_text|Hunt for the Tsar
+qst_oim_potop_king_elections_kings_node|Zagloba's Rebellion
+qst_oim_potop_king_elections_kings_node_text|Zagloba's Rebellion
+qst_oim_potop_king_elections_zagloba|Unused
+qst_oim_potop_king_elections_zagloba_text|Unused
+qst_oim_potop_last_qst|Death in Ascension
+qst_oim_potop_last_qst_text|Death in Ascension
+qst_oim_potop_zagloba_revoult|Emperor Zagloba!
+qst_oim_potop_zagloba_revoult_text|Emperor Zagloba!
+qst_oim_potop_invasion_info|German Regiments
+qst_oim_potop_invasion_info_text|German Regiments
+qst_oim_potop_destroy_mercs|German Regiments
+qst_oim_potop_destroy_mercs_text|German Regiments
+qst_oim_potop_dismiss_king|Anti-Tsar Coalition
+qst_oim_potop_dismiss_king_text|Anti-Tsar Coalition
+qst_oim_potop_execute_king|King's Abdication
+qst_oim_potop_execute_king_text|King's Abdication
+qst_oim_potop_final_qst|The Final Border
+qst_oim_potop_final_qst_text|The Final Border
+qst_oim_getman_defend_villages|Defend the Villages
+qst_oim_getman_defend_villages_text|Defend the Villages
+qst_oim_getman_main|Secret of the Black Mace
+qst_oim_getman_main_text|Secret of the Black Mace
+qst_oim_getman_kozaks_service|Errands
+qst_oim_getman_kozaks_service_text|Errands
+qst_oim_getman_za_radzivilla|For Great Lithuania!
+qst_oim_getman_za_radzivilla_text|For Great Lithuania!
+qst_oim_getman_radzivill_rebelion|Radziwill Rebellion
+qst_oim_getman_radzivill_rebelion_text|Radziwill Rebellion
+qst_oim_getman_radzivill_capture_city|First Order
+qst_oim_getman_radzivill_capture_city_text|First Order
+qst_oim_getman_kiev_capture|Seizure of Kiev
+qst_oim_getman_kiev_capture_text|Seizure of Kiev
+qst_oim_getman_kiev_burgomistr|Kiev Mayor's Report
+qst_oim_getman_kiev_burgomistr_text|Kiev Mayor's Report
+qst_oim_getman_kiev_burgomistr_gold|Kiev Legend
+qst_oim_getman_kiev_burgomistr_gold_text|Kiev Legend
+qst_oim_getman_ask_add_info|The Intractable Radziwill
+qst_oim_getman_ask_add_info_text|The Intractable Radziwill
+qst_oim_getman_capture_tatarin|Tatar Mirza
+qst_oim_getman_capture_tatarin_text|Tatar Mirza
+qst_oim_getman_tampliers_archives|The Templar Archive
+qst_oim_getman_tampliers_archives_text|The Templar Archive
+qst_oim_getman_nesviz_grobnica_radzivilov|The Family Crypt
+qst_oim_getman_nesviz_grobnica_radzivilov_text|The Family Crypt
+qst_oim_getman_nesviz_legend|Nesvizh Legend
+qst_oim_getman_nesviz_legend_text|Nesvizh Legend
+qst_oim_getman_tayna_knyaza|The Secret of House Oleg
+qst_oim_getman_tayna_knyaza_text|The Secret of House Oleg
+qst_oim_getman_borat_dlg|Prince Boryatinsky
+qst_oim_getman_voron_book|Book of the Crow
+qst_oim_getman_voron_translate|Pafnuty
+qst_oim_getman_kozak_legend|Cossack Legends
+qst_oim_getman_barabash|Hetman Barabash
+qst_oim_getman_nesvizh_pernach|Nesvizh
+qst_oim_getman_kill_radzivill|Hetman Radziwill
+qst_oim_getman_za_barabasha|For Barabash!
+qst_oim_getman_caravan|Cart with a Letter
+qst_oim_getman_za_hmelya|For Hmel!
+qst_oim_na_rech_pospolitu|To Poland!
+qst_oim_getman_hmel_reb|Rebellion
+qst_oim_getman_hmel_casus_beli|The military incident
+qst_oim_getman_hmel_greate_war|War on Two Fronts
+qst_oim_getman_korona_vitovta|Vytautas' Crown
+qst_oim_getman_last_qst|From Sea to Sea
+qst_oim_na_msk_tsarzd|To Muscovite Tsardom!
+qst_oim_getman_barabash_reb|Rebellion!
+qst_oim_getman_barabash_casus_beli|The military incident
+qst_oim_getman_barabash_greate_war|A War on Two Fronts
+qst_oim_dmitriy_main|Tsar Secrets...
+qst_dmitriy_loot_villages|Ravage the Villages
+qst_oim_dmitriy_gerasim|Gerasim Evangelic
+qst_oim_dmitriy_elena|Eleanor
+qst_oim_dmitriy_eleonora|Bring Eleanor to Carl
+qst_oim_dmitriy_eleonora_home|Bring Eleanor to the Prince
+qst_oim_dmitriy_deliver_letter_msk|A Letter to the Tsar
+qst_oim_dmitriy_deliver_letter_shwed|A Letter to the Tsar
+qst_oim_dmitriy_talk_to_voevoda|Talk to the Warlord
+qst_oim_dmitriy_tsar_prison|The Tsar's Mercies
+qst_oim_dmitriy_razin|Stepan Razin
+qst_biyars_specnaz|Talks with Boyars
+qst_oim_alevtina_hanum|Alevtina-hanum
+qst_oim_black_lord|False Dmitry the Third
+qst_oim_black_lord_text|False Dmitry the Third
+qst_oim_dmitriy_elections|Elections of the Tsar
+qst_oim_dmitriy_elections_text|Elections of the Tsar
+qst_oim_duel_wound|Wounded in a Duel
+qst_oim_duel_wound_text|Wounded in a Duel
+qst_oim_alcoholic|Alcoholism
+qst_oim_alcoholic_text|Alcoholism
+qst_oim_illness_1|Fever
+qst_oim_illness_1_text|Fever
+qst_oim_illness_2|Gout
+qst_oim_illness_2_text|Gout
+qst_oim_illness_3|Dropsy
+qst_oim_illness_3_text|Dropsy
+qst_oim_illness_4|Dysentery
+qst_oim_illness_4_text|Dysentery
+qst_oim_illness_5|Scabies
+qst_oim_illness_5_text|Scabies
+qst_oim_potop_capture_city|Capture the City
+qst_oim_deliver_caravan|Deliver Caravan
+qst_oim_trade_pantent|Trade patent
+qst_oim_hunt_down_thieves|Hunt Down Thieves
+qst_oim_get_feast_supplies|Supplies for a Feast
+qst_oim_invest_2|Return Money
+qst_quests_end|Mission Accomplished
